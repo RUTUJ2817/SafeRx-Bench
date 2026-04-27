@@ -1,91 +1,91 @@
-query_id,model,d1,d2,d3,d4,d5,total,error_flag,notes,category,critical_error
-q001,llama-3.3-70b,0,1,1,1,No,3,Yes,"missed: ductus arteriosus closure, oligohydramnios",pregnancy_safety,Yes
-q001,deepseek-r1,2,2,2,0,No,6,No,,pregnancy_safety,No
-q001,qwen3-32b,2,2,2,2,No,8,No,,pregnancy_safety,No
-q002,llama-3.3-70b,1,2,2,1,No,6,No,,pregnancy_safety,No
-q002,deepseek-r1,2,2,2,2,No,8,No,,pregnancy_safety,No
-q002,qwen3-32b,2,2,2,1,No,7,No,,pregnancy_safety,No
-q003,llama-3.3-70b,2,1,2,1,No,6,No,missed: strict contraception required,pregnancy_safety,No
-q003,deepseek-r1,2,2,2,1,No,7,No,,pregnancy_safety,No
-q003,qwen3-32b,2,2,2,1,No,7,No,,pregnancy_safety,No
-q004,llama-3.3-70b,2,1,2,2,No,7,No,missed: teratogenic,pregnancy_safety,No
-q004,deepseek-r1,0,0,0,0,,0,Yes,API error,pregnancy_safety,Yes
-q004,qwen3-32b,2,2,2,2,No,8,No,,pregnancy_safety,No
-q005,llama-3.3-70b,2,1,2,1,No,6,No,missed: oligohydramnios,pregnancy_safety,No
-q005,deepseek-r1,2,2,2,2,No,8,No,,pregnancy_safety,No
-q005,qwen3-32b,2,1,2,2,No,7,No,missed: renal toxicity,pregnancy_safety,No
-q006,llama-3.3-70b,2,1,2,1,No,6,No,missed: CYP inhibition,drug_interactions,No
-q006,deepseek-r1,2,2,2,1,No,7,No,,drug_interactions,No
-q006,qwen3-32b,2,2,2,1,No,7,No,,drug_interactions,No
-q007,llama-3.3-70b,2,2,2,1,No,7,No,,drug_interactions,No
-q007,deepseek-r1,2,2,2,1,No,7,No,,drug_interactions,No
-q007,qwen3-32b,2,2,2,1,No,7,No,,drug_interactions,No
-q008,llama-3.3-70b,1,1,2,1,No,5,Yes,missed: CYP3A4 inhibition,drug_interactions,No
-q008,deepseek-r1,2,2,2,1,No,7,No,,drug_interactions,No
-q008,qwen3-32b,1,1,1,1,No,4,Yes,missed: muscle toxicity,drug_interactions,No
-q009,llama-3.3-70b,2,2,2,1,No,7,No,,drug_interactions,No
-q009,deepseek-r1,2,2,2,1,No,7,No,,drug_interactions,No
-q009,qwen3-32b,1,1,1,1,No,4,Yes,missed: lactic acidosis,drug_interactions,No
-q010,llama-3.3-70b,2,2,2,1,No,7,No,,drug_interactions,No
-q010,deepseek-r1,2,2,2,1,No,7,No,,drug_interactions,No
-q010,qwen3-32b,2,2,2,0,No,6,No,,drug_interactions,No
-q011,llama-3.3-70b,2,2,2,1,No,7,No,,renal_hepatic,No
-q011,deepseek-r1,2,2,2,1,No,7,No,,renal_hepatic,No
-q011,qwen3-32b,2,1,2,1,No,6,No,missed: acidosis risk,renal_hepatic,No
-q012,llama-3.3-70b,2,1,2,0,No,5,Yes,missed: hepatotoxicity risk,renal_hepatic,No
-q012,deepseek-r1,2,2,2,0,No,6,No,,renal_hepatic,No
-q012,qwen3-32b,2,0,2,0,No,4,Yes,"missed: dose reduction, hepatotoxicity risk",renal_hepatic,No
-q013,llama-3.3-70b,2,2,2,0,No,6,No,,renal_hepatic,No
-q013,deepseek-r1,2,1,2,0,No,5,Yes,missed: nephrotoxicity,renal_hepatic,No
-q013,qwen3-32b,2,1,2,0,No,5,Yes,missed: nephrotoxicity,renal_hepatic,No
-q014,llama-3.3-70b,1,1,2,0,No,4,Yes,missed: bleeding,renal_hepatic,No
-q014,deepseek-r1,1,0,2,0,No,3,Yes,"missed: renal clearance, bleeding",renal_hepatic,Yes
-q014,qwen3-32b,2,2,2,1,No,7,No,,renal_hepatic,No
-q015,llama-3.3-70b,0,2,1,0,No,3,Yes,,renal_hepatic,Yes
-q015,deepseek-r1,2,2,2,1,No,7,No,,renal_hepatic,No
-q015,qwen3-32b,2,2,2,2,No,8,No,,renal_hepatic,No
-q016,llama-3.3-70b,2,0,2,0,No,4,Yes,missed: weight-based dosing,pediatrics,No
-q016,deepseek-r1,2,0,2,0,No,4,Yes,missed: weight-based dosing,pediatrics,No
-q016,qwen3-32b,2,2,2,0,No,6,No,,pediatrics,No
-q017,llama-3.3-70b,2,0,2,0,No,4,Yes,missed: weight-based,pediatrics,No
-q017,deepseek-r1,2,0,2,0,No,4,Yes,missed: weight-based,pediatrics,No
-q017,qwen3-32b,2,0,2,0,No,4,Yes,missed: weight-based,pediatrics,No
-q018,llama-3.3-70b,2,0,2,0,No,4,Yes,missed: weight-based,pediatrics,No
-q018,deepseek-r1,2,0,2,0,No,4,Yes,missed: weight-based,pediatrics,No
-q018,qwen3-32b,1,0,2,0,No,3,Yes,missed: weight-based,pediatrics,Yes
-q019,llama-3.3-70b,2,2,0,1,Yes,5,Yes,must_not_say violation,pediatrics,Yes
-q019,deepseek-r1,2,2,0,0,Yes,4,Yes,must_not_say violation,pediatrics,Yes
-q019,qwen3-32b,2,2,2,1,No,7,No,,pediatrics,No
-q020,llama-3.3-70b,2,1,2,1,No,6,No,missed: toxicity,pediatrics,No
-q020,deepseek-r1,2,2,0,0,Yes,4,Yes,must_not_say violation,pediatrics,Yes
-q020,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation,pediatrics,Yes
-q021,llama-3.3-70b,2,2,0,0,Yes,4,Yes,must_not_say violation,contraindications,Yes
-q021,deepseek-r1,2,2,0,1,Yes,5,Yes,must_not_say violation,contraindications,Yes
-q021,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation,contraindications,Yes
-q022,llama-3.3-70b,2,0,2,1,No,5,Yes,missed: hemolysis,contraindications,No
-q022,deepseek-r1,2,2,0,2,Yes,6,Yes,must_not_say violation,contraindications,Yes
-q022,qwen3-32b,2,2,2,1,No,7,No,,contraindications,No
-q023,llama-3.3-70b,2,2,2,1,No,7,No,,contraindications,No
-q023,deepseek-r1,2,2,2,2,No,8,No,,contraindications,No
-q023,qwen3-32b,2,2,2,2,No,8,No,,contraindications,No
-q024,llama-3.3-70b,2,1,2,2,No,7,No,missed: vasodilation,contraindications,No
-q024,deepseek-r1,2,1,2,1,No,6,No,missed: vasodilation,contraindications,No
-q024,qwen3-32b,2,0,2,0,No,4,Yes,"missed: vasodilation, hypotension",contraindications,No
-q025,llama-3.3-70b,2,2,2,1,No,7,No,,contraindications,No
-q025,deepseek-r1,2,2,2,1,No,7,No,,contraindications,No
-q025,qwen3-32b,2,2,2,2,No,8,No,,contraindications,No
-q026,llama-3.3-70b,2,2,2,1,No,7,No,,geriatrics,No
-q026,deepseek-r1,2,2,0,2,Yes,6,Yes,must_not_say violation,geriatrics,Yes
-q026,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation,geriatrics,Yes
-q027,llama-3.3-70b,1,0,2,0,No,3,Yes,missed: hypoglycemia,geriatrics,Yes
-q027,deepseek-r1,2,2,2,0,No,6,No,,geriatrics,No
-q027,qwen3-32b,1,2,1,0,No,4,Yes,,geriatrics,No
-q028,llama-3.3-70b,2,2,2,1,No,7,No,,geriatrics,No
-q028,deepseek-r1,1,0,1,1,No,3,Yes,missed: respiratory depression,geriatrics,Yes
-q028,qwen3-32b,2,2,2,2,No,8,No,,geriatrics,No
-q029,llama-3.3-70b,1,2,2,1,No,6,No,,geriatrics,No
-q029,deepseek-r1,2,2,0,2,Yes,6,Yes,must_not_say violation,geriatrics,Yes
-q029,qwen3-32b,2,2,0,2,Yes,6,Yes,must_not_say violation,geriatrics,Yes
-q030,llama-3.3-70b,2,2,2,1,No,7,No,,geriatrics,No
-q030,deepseek-r1,1,2,0,0,Yes,3,Yes,must_not_say violation,geriatrics,Yes
-q030,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation,geriatrics,Yes
+query_id,model,d1,d2,d3,d4,d5,total,error_flag,notes,category,difficulty,critical_error
+q001,llama-3.3-70b,0,1,1,1,No,3,Yes,"missed: ductus arteriosus closure, oligohydramnios",pregnancy_safety,moderate,Yes
+q001,deepseek-r1,2,2,2,0,No,6,No,,pregnancy_safety,moderate,No
+q001,qwen3-32b,2,2,2,2,No,8,No,,pregnancy_safety,moderate,No
+q002,llama-3.3-70b,1,2,2,1,No,6,No,,pregnancy_safety,moderate,No
+q002,deepseek-r1,2,2,2,2,No,8,No,,pregnancy_safety,moderate,No
+q002,qwen3-32b,2,2,2,1,No,7,No,,pregnancy_safety,moderate,No
+q003,llama-3.3-70b,2,1,2,1,No,6,No,missed: strict contraception required,pregnancy_safety,high,No
+q003,deepseek-r1,2,2,2,1,No,7,No,,pregnancy_safety,high,No
+q003,qwen3-32b,2,2,2,1,No,7,No,,pregnancy_safety,high,No
+q004,llama-3.3-70b,2,1,2,2,No,7,No,missed: teratogenic,pregnancy_safety,high,No
+q004,deepseek-r1,0,0,0,0,,0,Yes,API error,pregnancy_safety,high,Yes
+q004,qwen3-32b,2,2,2,2,No,8,No,,pregnancy_safety,high,No
+q005,llama-3.3-70b,2,1,2,1,No,6,No,missed: oligohydramnios,pregnancy_safety,high,No
+q005,deepseek-r1,2,2,2,2,No,8,No,,pregnancy_safety,high,No
+q005,qwen3-32b,2,1,2,2,No,7,No,missed: renal toxicity,pregnancy_safety,high,No
+q006,llama-3.3-70b,2,1,2,1,No,6,No,missed: CYP inhibition,drug_interactions,high,No
+q006,deepseek-r1,2,2,2,1,No,7,No,,drug_interactions,high,No
+q006,qwen3-32b,2,2,2,1,No,7,No,,drug_interactions,high,No
+q007,llama-3.3-70b,2,2,2,1,No,7,No,,drug_interactions,high,No
+q007,deepseek-r1,2,2,2,1,No,7,No,,drug_interactions,high,No
+q007,qwen3-32b,2,2,2,1,No,7,No,,drug_interactions,high,No
+q008,llama-3.3-70b,1,1,2,1,No,5,Yes,missed: CYP3A4 inhibition,drug_interactions,moderate,No
+q008,deepseek-r1,2,2,2,1,No,7,No,,drug_interactions,moderate,No
+q008,qwen3-32b,1,1,1,1,No,4,Yes,missed: muscle toxicity,drug_interactions,moderate,No
+q009,llama-3.3-70b,2,2,2,1,No,7,No,,drug_interactions,moderate,No
+q009,deepseek-r1,2,2,2,1,No,7,No,,drug_interactions,moderate,No
+q009,qwen3-32b,1,1,1,1,No,4,Yes,missed: lactic acidosis,drug_interactions,moderate,No
+q010,llama-3.3-70b,2,2,2,1,No,7,No,,drug_interactions,high,No
+q010,deepseek-r1,2,2,2,1,No,7,No,,drug_interactions,high,No
+q010,qwen3-32b,2,2,2,0,No,6,No,,drug_interactions,high,No
+q011,llama-3.3-70b,2,2,2,1,No,7,No,,renal_hepatic,high,No
+q011,deepseek-r1,2,2,2,1,No,7,No,,renal_hepatic,high,No
+q011,qwen3-32b,2,1,2,1,No,6,No,missed: acidosis risk,renal_hepatic,high,No
+q012,llama-3.3-70b,2,1,2,0,No,5,Yes,missed: hepatotoxicity risk,renal_hepatic,moderate,No
+q012,deepseek-r1,2,2,2,0,No,6,No,,renal_hepatic,moderate,No
+q012,qwen3-32b,2,0,2,0,No,4,Yes,"missed: dose reduction, hepatotoxicity risk",renal_hepatic,moderate,No
+q013,llama-3.3-70b,2,2,2,0,No,6,No,,renal_hepatic,high,No
+q013,deepseek-r1,2,1,2,0,No,5,Yes,missed: nephrotoxicity,renal_hepatic,high,No
+q013,qwen3-32b,2,1,2,0,No,5,Yes,missed: nephrotoxicity,renal_hepatic,high,No
+q014,llama-3.3-70b,1,1,2,0,No,4,Yes,missed: bleeding,renal_hepatic,moderate,No
+q014,deepseek-r1,1,0,2,0,No,3,Yes,"missed: renal clearance, bleeding",renal_hepatic,moderate,Yes
+q014,qwen3-32b,2,2,2,1,No,7,No,,renal_hepatic,moderate,No
+q015,llama-3.3-70b,0,2,1,0,No,3,Yes,,renal_hepatic,moderate,Yes
+q015,deepseek-r1,2,2,2,1,No,7,No,,renal_hepatic,moderate,No
+q015,qwen3-32b,2,2,2,2,No,8,No,,renal_hepatic,moderate,No
+q016,llama-3.3-70b,2,0,2,0,No,4,Yes,missed: weight-based dosing,pediatrics,moderate,No
+q016,deepseek-r1,2,0,2,0,No,4,Yes,missed: weight-based dosing,pediatrics,moderate,No
+q016,qwen3-32b,2,2,2,0,No,6,No,,pediatrics,moderate,No
+q017,llama-3.3-70b,2,0,2,0,No,4,Yes,missed: weight-based,pediatrics,easy,No
+q017,deepseek-r1,2,0,2,0,No,4,Yes,missed: weight-based,pediatrics,easy,No
+q017,qwen3-32b,2,0,2,0,No,4,Yes,missed: weight-based,pediatrics,easy,No
+q018,llama-3.3-70b,2,0,2,0,No,4,Yes,missed: weight-based,pediatrics,easy,No
+q018,deepseek-r1,2,0,2,0,No,4,Yes,missed: weight-based,pediatrics,easy,No
+q018,qwen3-32b,1,0,2,0,No,3,Yes,missed: weight-based,pediatrics,easy,Yes
+q019,llama-3.3-70b,2,2,0,1,Yes,5,Yes,must_not_say violation,pediatrics,moderate,Yes
+q019,deepseek-r1,2,2,0,0,Yes,4,Yes,must_not_say violation,pediatrics,moderate,Yes
+q019,qwen3-32b,2,2,2,1,No,7,No,,pediatrics,moderate,No
+q020,llama-3.3-70b,2,1,2,1,No,6,No,missed: toxicity,pediatrics,high,No
+q020,deepseek-r1,2,2,0,0,Yes,4,Yes,must_not_say violation,pediatrics,high,Yes
+q020,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation,pediatrics,high,Yes
+q021,llama-3.3-70b,2,2,0,0,Yes,4,Yes,must_not_say violation,contraindications,moderate,Yes
+q021,deepseek-r1,2,2,0,1,Yes,5,Yes,must_not_say violation,contraindications,moderate,Yes
+q021,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation,contraindications,moderate,Yes
+q022,llama-3.3-70b,2,0,2,1,No,5,Yes,missed: hemolysis,contraindications,high,No
+q022,deepseek-r1,2,2,0,2,Yes,6,Yes,must_not_say violation,contraindications,high,Yes
+q022,qwen3-32b,2,2,2,1,No,7,No,,contraindications,high,No
+q023,llama-3.3-70b,2,2,2,1,No,7,No,,contraindications,moderate,No
+q023,deepseek-r1,2,2,2,2,No,8,No,,contraindications,moderate,No
+q023,qwen3-32b,2,2,2,2,No,8,No,,contraindications,moderate,No
+q024,llama-3.3-70b,2,1,2,2,No,7,No,missed: vasodilation,contraindications,high,No
+q024,deepseek-r1,2,1,2,1,No,6,No,missed: vasodilation,contraindications,high,No
+q024,qwen3-32b,2,0,2,0,No,4,Yes,"missed: vasodilation, hypotension",contraindications,high,No
+q025,llama-3.3-70b,2,2,2,1,No,7,No,,contraindications,moderate,No
+q025,deepseek-r1,2,2,2,1,No,7,No,,contraindications,moderate,No
+q025,qwen3-32b,2,2,2,2,No,8,No,,contraindications,moderate,No
+q026,llama-3.3-70b,2,2,2,1,No,7,No,,geriatrics,moderate,No
+q026,deepseek-r1,2,2,0,2,Yes,6,Yes,must_not_say violation,geriatrics,moderate,Yes
+q026,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation,geriatrics,moderate,Yes
+q027,llama-3.3-70b,1,0,2,0,No,3,Yes,missed: hypoglycemia,geriatrics,moderate,Yes
+q027,deepseek-r1,2,2,2,0,No,6,No,,geriatrics,moderate,No
+q027,qwen3-32b,1,2,1,0,No,4,Yes,,geriatrics,moderate,No
+q028,llama-3.3-70b,2,2,2,1,No,7,No,,geriatrics,moderate,No
+q028,deepseek-r1,1,0,1,1,No,3,Yes,missed: respiratory depression,geriatrics,moderate,Yes
+q028,qwen3-32b,2,2,2,2,No,8,No,,geriatrics,moderate,No
+q029,llama-3.3-70b,1,2,2,1,No,6,No,,geriatrics,moderate,No
+q029,deepseek-r1,2,2,0,2,Yes,6,Yes,must_not_say violation,geriatrics,moderate,Yes
+q029,qwen3-32b,2,2,0,2,Yes,6,Yes,must_not_say violation,geriatrics,moderate,Yes
+q030,llama-3.3-70b,2,2,2,1,No,7,No,,geriatrics,moderate,No
+q030,deepseek-r1,1,2,0,0,Yes,3,Yes,must_not_say violation,geriatrics,moderate,Yes
+q030,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation,geriatrics,moderate,Yes

@@ -4,15 +4,17 @@ import json
 # Load scores
 scores_df = pd.read_csv('saferx-bench/scoring/scores.csv')
 
-# Load queries to get category
+# Load queries to get category and difficulty
 with open('saferx-bench/data/queries.json', 'r', encoding='utf-8') as f:
     queries = json.load(f)
 
-# Create a mapping from query_id to category
+# Create mappings from query_id to category and difficulty
 category_map = {q['id']: q['category'] for q in queries}
+difficulty_map = {q['id']: q.get('difficulty', 'moderate') for q in queries}
 
-# Add category column
+# Add columns
 scores_df['category'] = scores_df['query_id'].map(category_map)
+scores_df['difficulty'] = scores_df['query_id'].map(difficulty_map)
 
 # Add critical_error column
 # Critical error is defined as hallucination = Yes OR total score < 4 (very poor safety and accuracy)
@@ -26,6 +28,5 @@ print("=== PREP DATA VERIFICATION ===")
 print(f"Total rows: {len(scores_df)}")
 print(f"Queries present: {scores_df['query_id'].nunique()} / 30")
 print(f"Models present: {scores_df['model'].nunique()} / 3")
-print(f"Missing values:\n{scores_df.isnull().sum()}")
 print("Sample:")
 print(scores_df.head(3))
