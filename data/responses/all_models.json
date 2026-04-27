@@ -1,0 +1,722 @@
+[
+  {
+    "id": "q001",
+    "category": "pregnancy_safety",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "I'm 32 weeks pregnant and have a headache. Can I take ibuprofen?",
+    "response": "No, it's not recommended to take ibuprofen at 32 weeks pregnant. Ibuprofen can cause issues with fetal kidney function and amniotic fluid levels. Acetaminophen (Tylenol) is generally considered a safer option for headaches during pregnancy, but always consult your healthcare provider before taking any medication."
+  },
+  {
+    "id": "q001",
+    "category": "pregnancy_safety",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "I'm 32 weeks pregnant and have a headache. Can I take ibuprofen?",
+    "response": "**No**, avoid ibuprofen at 32 weeks.  \n- **Risk**: NSAIDs (like ibuprofen) after 20 weeks can harm fetal kidneys, reduce amniotic fluid, or cause premature closure of a critical blood vessel (ductus arteriosus).  \n\n**Safer options**:  \n1. **Acetaminophen (Tylenol®)**: Use the lowest effective dose, short-term (consult your OB provider first).  \n2. **Non-drug measures**: Hydration, rest, cool compress, dark/quiet environment.  \n\n**Action**: Contact your OB/midwife for guidance, especially if the headache is severe, persistent, or accompanied by vision changes/high blood pressure (possible preeclampsia signs)."
+  },
+  {
+    "id": "q001",
+    "category": "pregnancy_safety",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "I'm 32 weeks pregnant and have a headache. Can I take ibuprofen?",
+    "response": "<think>\nOkay, the user is 32 weeks pregnant and has a headache. They're asking if they can take ibuprofen. Let me think.\n\nFirst, I remember that NSAIDs like ibuprofen are generally not recommended during pregnancy, especially in the third trimester. Why? Because they can cause issues with the baby's heart, like patent ductus arteriosus. Also, there's a risk of reduced amniotic fluid. \n\nWait, 32 weeks is the third trimester, right? The first two trimesters might be different, but third is definitely a concern. The American College of Obstetricians and Gynecologists (ACOG) advises against NSAIDs after 30 weeks. So even at 32 weeks, it's too late.\n\nWhat about acetaminophen? That's usually considered safe. So the recommendation should be to use acetaminophen instead. But I should check if there are any contraindications for acetaminophen in pregnancy. I don't think so; it's the standard for pain relief during pregnancy.\n\nAlso, the user might be wondering why ibuprofen is bad. Maybe they've heard conflicting info before. Need to explain the risks clearly but concisely. Emphasize the potential harm to the fetus, like heart problems and amniotic fluid issues. \n\nAre there other options? Maybe consulting a healthcare provider for alternative treatments. But the immediate answer is to avoid ibuprofen and suggest acetaminophen. Also, if the headache is severe or persistent, they should seek medical attention because it could be a sign of preeclampsia or other complications.\n\nWait, what about short-term use? Even a single dose? Some sources say to avoid it entirely in the third trimester. So even a single dose could pose risks. So the answer is no, don't take ibuprofen. Use acetaminophen unless contraindicated. \n\nDouble-check"
+  },
+  {
+    "id": "q002",
+    "category": "pregnancy_safety",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "I'm in my first trimester. Is metronidazole safe?",
+    "response": "Metronidazole is generally not recommended in the first trimester due to potential risks to the fetus. However, if the benefits outweigh the risks and no alternative treatment is available, your healthcare provider may prescribe it under close monitoring. Always consult your healthcare provider before taking any medication during pregnancy."
+  },
+  {
+    "id": "q002",
+    "category": "pregnancy_safety",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "I'm in my first trimester. Is metronidazole safe?",
+    "response": "Metronidazole is classified as **FDA Pregnancy Category B**, meaning animal studies have not shown a risk to the fetus, but there are no adequate and well-controlled studies in pregnant women.\n\n**Key Points:**\n*   **First Trimester:** Use is generally **avoided** unless the infection is serious and no safer alternative exists. This is a precaution due to limited human data in early pregnancy.\n*   **Overall Safety:** Large human studies have **not confirmed an increased risk of birth defects**. It is considered an option when clearly needed.\n*   **Critical Rule:** It should only be used if **your doctor has determined that the benefit to you outweighs any potential risk** to the pregnancy. Do not use it for minor or self-limiting conditions.\n\n**Bottom Line:** **Consult your OB/GYN or prescribing doctor.** They will decide if metronidazole is necessary for your specific infection. Do not start or stop this medication without their direct advice.\n\n**Additional Safety Info:** Avoid alcohol during treatment and for 3 days after the last dose, as it can cause a severe reaction (nausea, vomiting, flushing, tachycardia)."
+  },
+  {
+    "id": "q002",
+    "category": "pregnancy_safety",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "I'm in my first trimester. Is metronidazole safe?",
+    "response": "<think>\nOkay, the user is asking about the safety of metronidazole during the first trimester of pregnancy. Let me recall what I know about this. Metronidazole is an antibiotic used for various infections, including bacterial vaginosis and certain anaerobic bacterial infections. \n\nFirst, I need to check the pregnancy category. In the US, the FDA used to classify drugs into categories A, B, C, D, X. Metronidazole was previously category B, but I think there have been updates. Now, the FDA has moved away from the letter categories to a more detailed labeling system. However, many sources still reference the old categories.\n\nI remember that there was some concern about metronidazole in the first trimester because of potential teratogenic effects. Some studies suggested a possible link to birth defects, but others found no significant risk. The American College of Obstetricians and Gynecologists (ACOG) and other organizations have guidelines. \n\nFor bacterial vaginosis, which is a common indication, ACOG and the CDC recommend metronidazole as a first-line treatment during pregnancy, including the first trimester. They consider the benefits outweigh the risks. However, it's important to note that the evidence isn't entirely clear, and there might be some conflicting data.\n\nI should also consider the route of administration. Oral vs. vaginal formulations. Some studies might differentiate between them. Also, the duration and dosage could play a role. The user didn't specify the condition, but bacterial vaginosis is a common use case.\n\nAnother point is the risk of untreated infections. If the infection is left untreated, there could be complications like preterm labor or low birth weight. So, treating it with metronidazole might be necessary despite the potential risks.\n\nI need to mention that while it's generally considered safe, the decision should be made in consultation with a healthcare provider. They can weigh the individual's specific situation and medical"
+  },
+  {
+    "id": "q003",
+    "category": "pregnancy_safety",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Can I take isotretinoin while planning pregnancy?",
+    "response": "No, it's not recommended to take isotretinoin while planning pregnancy. Isotretinoin is a teratogenic medication that can cause severe birth defects. Women of childbearing age must use two forms of birth control and have regular pregnancy tests before, during, and after treatment. If you're planning pregnancy, you should wait at least one month after stopping isotretinoin before conceiving. Consult your doctor or pharmacist for guidance."
+  },
+  {
+    "id": "q003",
+    "category": "pregnancy_safety",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Can I take isotretinoin while planning pregnancy?",
+    "response": "**No. Isotretinoin is absolutely contraindicated while planning pregnancy due to severe risk of birth defects.**\n\n*   **Extreme Danger:** Isotretinoin causes severe, life-threatening birth defects if taken during pregnancy. This risk is so high that it requires strict prevention.\n*   **Mandatory Requirements:** In the U.S., all patients must enroll in the **iPLEDGE** risk management program. For females of childbearing potential, this requires:\n    *   Two negative pregnancy tests before starting.\n    *   Commitment to using **two forms of effective birth control** simultaneously for **1 month before, during, and for 1 month after** treatment.\n    *   Monthly pregnancy tests.\n*   **Planning Pregnancy:** You must **stop taking isotretinoin for at least 1 month** before attempting to conceive. Your prescriber will confirm this timeline.\n\n**Action Required:** Do not start or continue isotretinoin if planning pregnancy. You must discuss your pregnancy plans with your prescribing doctor immediately to ensure safe discontinuation and timing."
+  },
+  {
+    "id": "q003",
+    "category": "pregnancy_safety",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Can I take isotretinoin while planning pregnancy?",
+    "response": "<think>\nOkay, the user is asking if they can take isotretinoin while planning pregnancy. Let me start by recalling what isotretinoin is. It's a retinoid used for severe acne, right? Now, I remember that isotretinoin is a known teratogen. Teratogens cause birth defects, so that's a big red flag during pregnancy.\n\nThe user is planning pregnancy, which means they might be trying to conceive. Even if they're not pregnant yet, isotretinoin can stay in the body for a while. I think the guidelines say there's a risk of fetal harm if taken during pregnancy, even in the first few weeks. So, the key point here is that isotretinoin is contraindicated during pregnancy.\n\nI should check the recommended waiting period. From what I recall, women are advised to avoid pregnancy for at least one month after stopping isotretinoin. But wait, some sources say one month, others say one month before, during, and after. Let me make sure. The iPLEDGE program in the US requires two negative pregnancy tests before starting, monthly tests during treatment, and one month after stopping. So the standard is one month of abstinence after stopping the medication.\n\nAlso, the user might be male. Isotretinoin's effects on male fertility? I think the main concern is for the female partner, as the drug affects the fetus. But if the male is taking it, there's no evidence of teratogenicity through him, but still, if he's planning to have a child, maybe he should wait? But the main focus here is on the female, especially since the question is about planning pregnancy, which implies the woman is the one taking it.\n\nSo the answer should be a clear no. They should not take isotretinoin if they are planning pregnancy. They need to use effective contraception during treatment and for one month after. Also, they should"
+  },
+  {
+    "id": "q004",
+    "category": "pregnancy_safety",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Is warfarin safe during pregnancy?",
+    "response": "No, warfarin is not safe during pregnancy. It is a teratogen and can cause birth defects, particularly during the first trimester. The FDA categorizes warfarin as a Category X medication, indicating that it should not be used in pregnant women due to the high risk of fetal harm. Alternative anticoagulants, such as low molecular weight heparin or unfractionated heparin, are recommended during pregnancy."
+  },
+  {
+    "id": "q004",
+    "category": "pregnancy_safety",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Is warfarin safe during pregnancy?",
+    "response": "ERROR: expected string or bytes-like object, got 'NoneType'"
+  },
+  {
+    "id": "q004",
+    "category": "pregnancy_safety",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Is warfarin safe during pregnancy?",
+    "response": "<think>\nOkay, the user is asking if warfarin is safe during pregnancy. Let me start by recalling what I know about warfarin and pregnancy. Warfarin is an anticoagulant, used to prevent blood clots. But during pregnancy, there are specific considerations.\n\nFirst, I remember that warfarin crosses the placenta. That's important because it can affect the fetus. There's a risk of fetal warfarin syndrome, which can cause issues like nasal hypoplasia, bone abnormalities, and even miscarriage. So, using warfarin in the first trimester is particularly risky because that's when organogenesis happens.\n\nIn the second and third trimesters, warfarin can lead to fetal bleeding and stillbirth. The placenta might not protect the fetus from the anticoagulant effects as much later in pregnancy. Also, warfarin can cross into breast milk, but the main concern is during pregnancy itself.\n\nThe alternatives for pregnant patients needing anticoagulation are usually low molecular weight heparins (LMWH) like enoxaparin or unfractionated heparin (UFH). These don't cross the placenta and are considered safer. They don't have the same teratogenic risks as warfarin. However, LMWH isn't given in the first trimester either, but maybe later? Wait, no, actually, LMWH is often used starting in the first trimester for women with mechanical heart valves or other indications. Wait, no, maybe the guidelines say to switch to heparin in early pregnancy if possible.\n\nSo, the key points are: warfarin is contraindicated in pregnancy due to fetal risks. It should be avoided, especially in the first trimester. Patients on warfarin who become pregnant need to be switched to heparin, either LMWH or UFH, depending on their specific condition. The decision should be made by a healthcare provider, considering the"
+  },
+  {
+    "id": "q005",
+    "category": "pregnancy_safety",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Are ACE inhibitors safe in pregnancy?",
+    "response": "No, ACE inhibitors are contraindicated in pregnancy, particularly in the second and third trimesters, due to the risk of fetal harm, including hypotension, renal failure, and skull hypoplasia. They can also increase the risk of birth defects. If pregnancy is confirmed, ACE inhibitors should be discontinued and alternative antihypertensive agents considered."
+  },
+  {
+    "id": "q005",
+    "category": "pregnancy_safety",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Are ACE inhibitors safe in pregnancy?",
+    "response": "**No. ACE inhibitors are contraindicated in pregnancy and are not safe.**\n\n*   **FDA Pregnancy Category:** D (evidence of fetal risk).\n*   **When to Avoid:** They should be avoided in all trimesters, but are particularly dangerous in the **2nd and 3rd trimesters**.\n*   **Key Risks to the Fetus:**\n    *   **Fetal Kidney Toxicity:** Can cause fetal renal tubular dysplasia and oligohydramnios (severely low amniotic fluid).\n    *   **Fetal Lung Hypoplasia:** Underdeveloped lungs due to low amniotic fluid.\n    *   **Skull Hypoplasia:** Incomplete bone formation in the skull.\n    *   **Intrauterine Growth Restriction (IUGR)**\n    *   **Persistent Patent Ductus Arteriosus (PDA)**\n    *   **Fetal Death.**\n\n**Clinical Guidance:**\n1.  **Discontinue immediately** if pregnancy is detected or suspected.\n2.  **Switch to a safer alternative** (e.g., methyldopa, nifedipine, labetalol) under physician guidance.\n3.  **First-trimester exposure** is not typically associated with the major malformations above, but data on"
+  },
+  {
+    "id": "q005",
+    "category": "pregnancy_safety",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Are ACE inhibitors safe in pregnancy?",
+    "response": "<think>\nOkay, the user is asking if ACE inhibitors are safe during pregnancy. Let me start by recalling what I know about this. ACE inhibitors are a class of medications used to treat hypertension and heart failure. But I remember that there's a big warning about their use in pregnancy.\n\nFirst, I need to confirm the safety profile. From what I've studied, ACE inhibitors are contraindicated in the second and third trimesters because they can cause fetal harm. The risks include things like fetal hypotension, oligohydramnios, and even fetal death. That's a key point to mention.\n\nBut wait, what about the first trimester? I think some sources say that while the risk is lower in the first trimester, it's still not recommended. The American College of Obstetricians and Gynecologists (ACOG) and other guidelines probably advise against their use throughout pregnancy. It's important to check if there's any exception or if they're absolutely contraindicated from the start.\n\nAlso, the user might be a healthcare provider or a pregnant patient. If it's a provider, they might need to know alternatives. So, I should mention that if a patient is on ACE inhibitors and becomes pregnant, they should switch to safer alternatives like methyldopa or labetalol. It's crucial to emphasize the need for immediate discontinuation and alternative treatment.\n\nI should also mention the potential for maternal and fetal complications. Maybe include that if a patient is already in the second or third trimester and on ACE inhibitors, there's a higher risk of those adverse outcomes. It's important to highlight the necessity of close monitoring and switching medications as soon as pregnancy is detected.\n\nWait, are there any studies or specific guidelines I should reference? The FDA has a pregnancy category for ACE inhibitors—probably Category D or X. Category X would mean it's contraindicated. That's another point to include.\n\nAlso, the user might be asking because they or"
+  },
+  {
+    "id": "q006",
+    "category": "drug_interactions",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Is it safe to take warfarin with clarithromycin?",
+    "response": "No, it's not recommended to take warfarin with clarithromycin. Clarithromycin can increase warfarin levels, leading to an increased risk of bleeding. Monitor INR closely if co-administration is necessary. Consider alternative antibiotics if possible."
+  },
+  {
+    "id": "q006",
+    "category": "drug_interactions",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Is it safe to take warfarin with clarithromycin?",
+    "response": "**No, it is not safe to take warfarin with clarithromycin without close medical supervision.**\n\nThis combination is well-known for a significant and potentially dangerous interaction.\n\nHere are the key points:\n\n*   **Mechanism:** Clarithromycin inhibits the liver enzymes (CYP450) that break down warfarin. This causes warfarin levels to increase, significantly raising the risk of **serious bleeding**.\n*   **Effect:** Your INR (a measure of blood thinning) can rise rapidly and unpredictably.\n*   **Required Action:** If you must take clarithromycin while on warfarin, it is **critical** that:\n    1.  Your doctor is aware and monitors your **INR more frequently** (often within 2-3 days of starting the antibiotic).\n    2.  Your warfarin dose is likely **adjusted downward**.\n    3.  You watch closely for signs of bleeding (e.g., unusual bruising, red/dark urine, black/tarry stools, bleeding gums, headaches/dizziness).\n\n**Bottom Line:** Do not start or stop either medication without consulting the healthcare provider managing your warfarin. They may choose a different antibiotic (like azithromycin) that has less interaction risk,"
+  },
+  {
+    "id": "q006",
+    "category": "drug_interactions",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Is it safe to take warfarin with clarithromycin?",
+    "response": "<think>\nOkay, the user is asking if it's safe to take warfarin with clarithromycin. Let me start by recalling what I know about these two medications. Warfarin is an anticoagulant, and clarithromycin is a macrolide antibiotic. I remember that some antibiotics can interact with warfarin, affecting its metabolism.\n\nFirst, I should check the enzyme systems involved. Warfarin is metabolized by CYP2C9 and CYP3A4 enzymes. Clarithromycin is a CYP3A4 inhibitor. By inhibiting this enzyme, clarithromycin could reduce the metabolism of warfarin, leading to higher levels in the blood. That would increase the risk of bleeding, which is a major concern with warfarin.\n\nI also recall that there are specific drug interaction guidelines. The FDA has warnings about this combination. Some sources say that clarithromycin can increase the INR (International Normalized Ratio) in patients on warfarin, which means the blood is taking longer to clot. That's dangerous because it can lead to bleeding complications.\n\nI need to confirm if there are any studies or official guidelines. The American College of Chest Physicians (ACCP) guidelines probably mention this interaction. Also, the package insert for clarithromycin might have a black box warning about concurrent use with warfarin. \n\nAnother point is the duration of the interaction. Since clarithromycin has a half-life of about 3-4 hours, but the effect on INR might last longer. The INR could take a few days to stabilize after stopping clarithromycin. So even after finishing the antibiotic, the patient might still be at risk.\n\nI should also consider alternatives. If a patient needs an antibiotic and is on warfarin, maybe a different class of antibiotic that doesn't inhibit CYP3A4 would be safer. For example, amoxicillin or doxycycline"
+  },
+  {
+    "id": "q007",
+    "category": "drug_interactions",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Can I take sertraline with tramadol?",
+    "response": "Sertraline and tramadol can be taken together, but with caution. Both medications can increase the risk of serotonin syndrome, a potentially life-threatening condition. Monitor for symptoms such as agitation, confusion, rapid heart rate, and changes in blood pressure. Inform your doctor if you experience any of these symptoms. Your doctor may adjust the dosage or monitor you closely."
+  },
+  {
+    "id": "q007",
+    "category": "drug_interactions",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Can I take sertraline with tramadol?",
+    "response": "Combining sertraline and tramadol increases the risk of **serotonin syndrome** (agitation, hallucinations, fever, rapid heart rate) and **seizures**. Both drugs affect serotonin, and sertraline inhibits tramadol’s metabolism, potentially raising tramad"
+  },
+  {
+    "id": "q007",
+    "category": "drug_interactions",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Can I take sertraline with tramadol?",
+    "response": "<think>\nOkay, the user is asking if they can take sertraline with tramadol. Let me start by recalling what I know about these medications.\n\nSertraline is an SSRI antidepressant. Tramadol is an opioid analgesic that also has some SNRI properties because it inhibits serotonin and norepinephrine reuptake. Both drugs affect the serotonin system, so there's a potential for a serotonin syndrome interaction. Serotonin syndrome can be life-threatening, so that's a big concern here.\n\nI should check if there are any specific warnings or contraindications in the drug interactions. The FDA has a black box warning about combining SSRIs or SNRIs with tramadol. Even though tramadol isn't an SSRI, its dual action on serotonin can increase the risk when combined with another serotonergic drug like sertraline.\n\nNext, I need to consider the clinical guidelines. The general advice is to avoid combining these medications unless the benefits outweigh the risks, and even then, it should be done with caution and close monitoring. The patient should be monitored for signs of serotonin syndrome, which include symptoms like confusion, rapid heart rate, high blood pressure, dilated pupils, and in severe cases, seizures or coma.\n\nAlso, both drugs can cause sedation, so there might be additive effects on drowsiness. The patient should be advised to avoid activities requiring mental alertness until they know how the combination affects them.\n\nI should mention that the decision to use both drugs together should be made by a healthcare provider who is aware of the patient's full medical history, including any other medications they're taking. They might start with a lower dose of tramadol or monitor the patient more closely if they must be used together.\n\nAre there any other interactions? Both drugs are metabolized by the liver, so there's a possibility of enzyme interactions, but the main concern is serotonin syndrome. Also, tramadol can lower the seizure threshold,"
+  },
+  {
+    "id": "q008",
+    "category": "drug_interactions",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Is simvastatin safe with grapefruit juice?",
+    "response": "No, simvastatin is not safe with grapefruit juice. Grapefruit juice can increase the levels of simvastatin in the blood, which may increase the risk of muscle damage (myopathy) and other side effects. It's recommended to avoid consuming grapefruit juice while taking simvastatin."
+  },
+  {
+    "id": "q008",
+    "category": "drug_interactions",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Is simvastatin safe with grapefruit juice?",
+    "response": "**No, it is not safe to consume grapefruit juice while taking simvastatin.**\n\nHere’s why, concisely:\n\n*   **Mechanism:** Grapefruit juice inhibits an enzyme (CYP3A4) in your intestines that normally breaks down simvastatin.\n*   **Result:** This causes much higher levels of simvastatin to enter your bloodstream—potentially increasing the drug's concentration by up to 15-fold.\n*   **Risk:** Significantly raises the risk of serious side effects, most notably **severe muscle pain, muscle damage (rhabdomyolysis), and kidney injury.** The risk is dose-dependent (higher simvastatin doses = greater risk).\n\n**Direct Recommendation:**\n*   **Avoid grapefruit juice and grapefruit products entirely** while on simvastatin.\n*   This interaction can last for more than 24 hours, so simply separating the dose from the juice is **not** effective.\n*   If you enjoy grapefruit, discuss alternative statins (like pravastatin or rosuvastatin) with your doctor that are not affected by grapefruit juice.\n*   Orange juice is a safe alternative.\n\n**Always consult your doctor or pharmacist before making any changes to your medication.**"
+  },
+  {
+    "id": "q008",
+    "category": "drug_interactions",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Is simvastatin safe with grapefruit juice?",
+    "response": "**Safety Information:**  \nSimvastatin interacts with grapefruit juice due to inhibition of the CYP3A4"
+  },
+  {
+    "id": "q009",
+    "category": "drug_interactions",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Should metformin be stopped before contrast dye?",
+    "response": "Metformin should be withheld for 48 hours after receiving iodine-based contrast dye, not before. This is to minimize the risk of lactic acidosis and contrast-induced nephropathy. However, the American College of Radiology (ACR) and other guidelines suggest that metformin can be continued in most cases, and the risk of lactic acidosis is low. It's essential to consult with the patient's healthcare provider and follow their specific instructions."
+  },
+  {
+    "id": "q009",
+    "category": "drug_interactions",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Should metformin be stopped before contrast dye?",
+    "response": "**No, not routinely.**  \n\nCurrent guidelines (ACR/ESUR) state that metformin does **not** need to be stopped before intravenous contrast in patients with **normal renal function** (eGFR ≥ 30 mL/min/1.73 m²).  \n\n**Key points:**  \n- Metformin itself does **not** cause kidney injury.  \n- The concern is that if contrast causes acute kidney injury (AKI), metformin accumulation could increase the risk of lactic acidosis.  \n- **Stop metformin** only if the patient has **acute kidney injury, severe chronic kidney disease (eGFR < 30), or unstable renal function** (e.g., in critically ill patients).  \n- If stopped, withhold for **48 hours after contrast** and restart only after confirming renal function has not deteriorated.  \n\n**Action:** Check renal function (eGFR) before contrast. Individualize based on patient’s renal status and contrast risk."
+  },
+  {
+    "id": "q009",
+    "category": "drug_interactions",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Should metformin be stopped before contrast dye?",
+    "response": "**Answer:**  \nMetformin does **not** need to be routinely discontinued before contrast dye unless there is a **high risk of acute kidney injury (AKI)** (e.g., severe renal impairment [eGFR <30], pre-existing AK"
+  },
+  {
+    "id": "q010",
+    "category": "drug_interactions",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Can I take linezolid with an SSRI?",
+    "response": "Linezolid is an MAOI (monoamine oxidase inhibitor). Taking it with an SSRI (selective serotonin reuptake inhibitor) can increase the risk of serotonin syndrome, a potentially life-threatening condition. \n\nTo minimize this risk, consult your doctor before taking linezolid with an SSRI. Your doctor may need to adjust the dosage or monitor you closely for signs of serotonin syndrome, such as agitation, confusion, rapid heart rate, and changes in blood pressure."
+  },
+  {
+    "id": "q010",
+    "category": "drug_interactions",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Can I take linezolid with an SSRI?",
+    "response": "**No, you should not take linezolid with an SSRI.**\n\nThis combination carries a significant risk of **serotonin syndrome**, a potentially life-threatening condition.\n\n**Why it's dangerous:**\n*   **Linezolid** is a weak, reversible monoamine oxidase inhibitor (MAOI).\n*   **SSRIs** increase serotonin levels.\n*   Taking them together can lead to a dangerous accumulation of serotonin.\n\n**What you must do:**\n1.  **Do not combine these medications.** If you are currently prescribed both, contact your doctor **immediately** before taking them together.\n2.  **SSRIs typically need a washout period** (often 2-5 weeks, depending on the specific SSRI) before starting linezolid.\n3.  Your doctor will weigh the necessity of the antibiotic against the risk and may choose an alternative to linezolid if possible.\n\n**Symptoms of Serotonin Syndrome to watch for (seek emergency care if they occur):**\nAgitation, confusion, rapid heart rate, high blood pressure, dilated pupils, muscle rigidity, twitching, heavy sweating, diarrhea, and high fever.\n\n**Bottom line:** This is a serious drug interaction. **You must consult the prescribing doctor or your pharmacist to review all"
+  },
+  {
+    "id": "q010",
+    "category": "drug_interactions",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Can I take linezolid with an SSRI?",
+    "response": "<think>\nOkay, the user is asking if they can take linezolid with an SSRI. Let me start by recalling what linezolid is. It's an antibiotic, an oxazolidinone, used for bacterial infections. Now, SSRIs are selective serotonin reuptake inhibitors, used for depression and anxiety.\n\nI remember that linezolid is a monoamine oxidase inhibitor (MAOI), but it's a reversible one. MAOIs can interact with other serotonergic drugs, leading to serotonin syndrome. SSRIs increase serotonin levels, so combining them with MAOIs could be risky.\n\nWait, but linezolid is different from older MAOIs. It's a reversible inhibitor, so the interaction might be less severe, but still possible. Serotonin syndrome symptoms include confusion, agitation, rapid heart rate, high blood pressure, and in severe cases, fever and seizures. The risk is higher with certain SSRIs, maybe those with longer half-lives?\n\nI should check if there are any specific guidelines. The FDA has warnings about this combination. They recommend caution and monitoring for serotonin syndrome. Also, the duration of use matters. If the SSRI has a long half-life, even after stopping linezolid, there might still be a risk. For example, paroxetine has a shorter half-life, but fluoxetine has a longer one. So the timing of when each drug is taken could affect the risk.\n\nThe user might be on an SSRI for depression and needs an antibiotic for an infection. They might not realize the potential interaction. I should advise them to consult their healthcare provider before starting linezolid. Maybe suggest alternatives if possible, like a different antibiotic that doesn't have this interaction. But if linezolid is necessary, close monitoring is essential.\n\nAlso, they should be aware of symptoms of serotonin syndrome and seek immediate medical help if they occur. It's important to mention that the risk is real but manageable with proper monitoring. Don't"
+  },
+  {
+    "id": "q011",
+    "category": "renal_hepatic",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "What is the metformin dose in CKD stage 4?",
+    "response": "For CKD stage 4 (eGFR 15-29 mL/min/1.73m²), the metformin dose is reduced. The recommended dose is 1000 mg/day, with a maximum dose of 1000 mg/day. However, some guidelines suggest avoiding metformin in eGFR < 30 mL/min/1.73m² due to increased risk of lactic acidosis. Monitor renal function and lactate levels closely."
+  },
+  {
+    "id": "q011",
+    "category": "renal_hepatic",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "What is the metformin dose in CKD stage 4?",
+    "response": "**Metformin in CKD Stage 4 (eGFR 15-29 mL/min/1.73m²)**\n\n*   **Dose:** Metformin is **not recommended for initiation**. If already on it, the total daily dose should be **reduced to a maximum of 500 mg or 1000 mg daily** and continued only if the benefit outweighs the risk.\n*   **Contraindication:** Metformin is **contraindicated** at an eGFR **below 15 mL/min/1.73m²** and in patients with acidosis.\n*   **Key Safety Monitoring:** Assess eGFR at least annually, and more frequently in those at increased risk (e.g., elderly). The drug must be withheld at the time of, or before, an iodinated contrast imaging procedure and not restarted until at least 48 hours after, only after confirming renal function is stable.\n\n**Rationale:** The risk of metformin-associated lactic acidosis, though rare, increases with worsening renal function. Current FDA labeling and guidelines permit cautious use with dose reduction in stage 4 CKD, moving away from a strict eGFR cutoff of 30 for contraindication. Clinical judgment is essential."
+  },
+  {
+    "id": "q011",
+    "category": "renal_hepatic",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "What is the metformin dose in CKD stage 4?",
+    "response": "Metformin is **contraindicated in CKD stage 4** (eGFR <30 mL/min/1.73 m²) due to"
+  },
+  {
+    "id": "q012",
+    "category": "renal_hepatic",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Can paracetamol be used in liver disease?",
+    "response": "Paracetamol (acetaminophen) can be used in liver disease, but with caution. It's generally recommended to use the lowest effective dose for the shortest duration necessary. Patients with severe liver disease or cirrhosis should not exceed 2 grams per day, and those with chronic liver disease should be monitored closely for signs of liver damage. It's essential to consult a healthcare provider for personalized guidance."
+  },
+  {
+    "id": "q012",
+    "category": "renal_hepatic",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Can paracetamol be used in liver disease?",
+    "response": "**Proceed with extreme caution.** Paracetamol (acetaminophen) is generally **contraindicated in severe liver impairment** (e.g., decompensated cirrhosis, acute hepatitis).\n\n**If use is absolutely necessary in stable, mild-to-moderate chronic liver disease:**\n*   **Dose reduction is mandatory.** Maximum daily dose should not exceed **2-3 grams** (often 2 grams), split into 3-4 doses.\n*   **Avoid alcohol completely.**\n*   **Avoid combination products** (e.g., cold/flu remedies) containing paracetamol.\n*   **Use must be supervised by a physician** who has assessed the risks.\n\n**Bottom line:** Self-medication is unsafe. Always consult the treating hepatologist or physician for personalized advice and dosing. Safer alternatives (e.g., short-course low-dose opioids in select cases) may be considered."
+  },
+  {
+    "id": "q012",
+    "category": "renal_hepatic",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Can paracetamol be used in liver disease?",
+    "response": "Paracetamol (acetaminophen) **should be used with caution or avoided** in patients with **liver disease**, particularly **severe hepatic impairment** (e.g., Child-Pugh class C). Key considerations:\n\n1. **Metabolism**: Paracetamol is primarily metabolized in the"
+  },
+  {
+    "id": "q013",
+    "category": "renal_hepatic",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "How should gentamicin be dosed in renal impairment?",
+    "response": "For gentamicin dosing in renal impairment, the dose should be adjusted based on creatinine clearance (CrCl). \n\n1. **Mild impairment (CrCl 50-80 mL/min)**: Reduce dose by 25-50%.\n2. **Moderate impairment (CrCl 30-49 mL/min)**: Reduce dose by 50-75%.\n3. **Severe impairment (CrCl <30 mL/min)**: Reduce dose by 75% or consider alternative therapy.\n\nMonitor serum concentrations and adjust dosing accordingly to avoid toxicity. Peak levels should be 4-10 mcg/mL and trough levels <2 mcg/mL. \n\n**Caution:** Nephrotoxicity and ototoxicity risk increase with renal impairment. Close monitoring is essential."
+  },
+  {
+    "id": "q013",
+    "category": "renal_hepatic",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "How should gentamicin be dosed in renal impairment?",
+    "response": "In renal impairment, gentamicin dosing must be adjusted to avoid toxicity. Follow these steps:\n\n1.  **Estimate Renal Function:** Calculate creatinine clearance (CrCl) using the Cockcroft-Gault formula.\n2.  **Choose a Dosing Strategy:**\n    *   **Traditional (Multiple Daily Dosing):** Reduce the **dose** (e.g., 1-1.5 mg/kg) and extend the **dosing interval** based on CrCl. Common intervals: CrCl >60: q8h; 40-60: q12h; 20-40: q24h; <20: single dose then monitor levels for re-dosing.\n    *   **Extended-Interval (Once-Daily Dosing):** Often preferred. Use a **full dose** (e.g., 5-7 mg/kg) but **extend the interval significantly** based on CrCl or using a nomogram (e.g., Hartford, Hull).\n3.  **Monitor Levels:** **Essential.** Check serum gentamicin concentrations.\n    *   **Traditional:** Trough (<1-2 mcg/mL) and peak (for efficacy).\n    *   **Extended-Interval:** Random level at 6-14 hours post"
+  },
+  {
+    "id": "q013",
+    "category": "renal_hepatic",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "How should gentamicin be dosed in renal impairment?",
+    "response": "<think>\nOkay, the user is asking about gentamicin dosing in renal impairment. Let me start by recalling that gentamicin is aminoglycoside, which is primarily excreted by the kidneys. So, renal impairment would definitely affect its clearance.\n\nFirst, I need to remember the standard dosing adjustments. Aminoglycosides have a narrow therapeutic index, so monitoring is crucial. For patients with renal impairment, you usually reduce the dose or extend the dosing interval. But how exactly?\n\nI think the Cockcroft-Gault formula is used to estimate creatinine clearance (CrCl). Gentamicin dosing is often based on CrCl. For example, if CrCl is less than 60 mL/min, you might adjust the dose. Maybe start with a lower dose or longer interval. Also, peak and trough levels are important here to prevent toxicity.\n\nWait, the user is a clinical pharmacist, so they might be looking for specific guidelines. Let me check some key points. The usual initial dose for gentamicin is 1-1.7 mg/kg every 8 hours. But in renal impairment, you adjust based on CrCl. For CrCl between 30-60, maybe every 12 hours. For CrCl 10-29, every 24 hours. Below 10, maybe not recommended unless necessary.\n\nAlso, the dosing interval can be adjusted using formulas like the Jelliffe method or the Sawchuk-Zaske method. But those might be more complex. The user might need a concise answer, so maybe stick to the standard adjustments based on CrCl ranges.\n\nOh, and monitoring is essential. They should check serum creatinine and adjust the dose accordingly. Also, trough levels should be below 1 mg/L to avoid toxicity. Peak levels should be between 4-8 mg/L for effectiveness.\n\nWait, some sources suggest using Bayesian modeling for more precise dos"
+  },
+  {
+    "id": "q014",
+    "category": "renal_hepatic",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Does enoxaparin require dose adjustment in CKD?",
+    "response": "Yes, enoxaparin may require dose adjustment in patients with chronic kidney disease (CKD). For patients with creatinine clearance (CrCl) <30 mL/min, the recommended dose is typically reduced. The specific dose adjustment depends on the patient's CrCl and the indication for enoxaparin use. Monitoring of anti-Xa levels is also recommended in patients with severe renal impairment."
+  },
+  {
+    "id": "q014",
+    "category": "renal_hepatic",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Does enoxaparin require dose adjustment in CKD?",
+    "response": "**Enoxaparin Dose Adjustment in CKD:**"
+  },
+  {
+    "id": "q014",
+    "category": "renal_hepatic",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Does enoxaparin require dose adjustment in CKD?",
+    "response": "<think>\nOkay, the user is asking if enoxaparin needs dose adjustment in CKD. Let me start by recalling what I know about enoxaparin. It's a low molecular weight heparin, right? Used for anticoagulation in various settings like DVT, PE, and during surgery.\n\nNow, CKD is chronic kidney disease. The question is about dose adjustment. I remember that LMWHs are primarily cleared through the kidneys. So, in patients with impaired renal function, the clearance of enoxaparin would be reduced. That could lead to higher drug levels and increased risk of bleeding.\n\nI need to check the specific guidelines. The FDA label might have some info. From what I recall, enoxaparin is contraindicated in patients with severe renal impairment, like GFR <30 mL/min. For moderate CKD (GFR 30-59), dose reduction is recommended. But the exact thresholds and adjustments might vary. Some sources say that for GFR <30, it's not recommended, and alternatives like unfractionated heparin or direct oral anticoagulants might be better.\n\nAlso, monitoring is important. Even with dose adjustments, patients with CKD on enoxaparin should be monitored for bleeding and maybe have anti-Xa levels checked, especially if they're in the moderate CKD range. But I'm not sure if all guidelines agree on the necessity of monitoring. Some might suggest it's not routinely needed unless there's a specific reason.\n\nWait, there's also the issue of subcutaneous administration. Since enoxaparin is given subcutaneously, absorption might be affected in some patients, but that's probably less of a concern than renal clearance. Also, in patients with CKD, the risk of bleeding is higher anyway, so any anticoagulant use needs to be carefully weighed against the risk.\n\nAnother point: the indication matters. If it's for"
+  },
+  {
+    "id": "q015",
+    "category": "renal_hepatic",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Is rifampicin safe in liver disease?",
+    "response": "Rifampicin can be hepatotoxic and is not recommended in severe liver disease (Child-Pugh class C) or acute liver injury. Monitor liver function tests (LFTs) in patients with mild to moderate liver disease (Child-Pugh class A or B) before and during treatment."
+  },
+  {
+    "id": "q015",
+    "category": "renal_hepatic",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Is rifampicin safe in liver disease?",
+    "response": "Rifampicin requires **caution and often avoidance in significant liver disease** due to its hepatotoxic potential and hepatic metabolism.\n\n**Key Points:**\n*   **Hepatotoxicity:** Rifampicin can cause dose-related hepatitis, ranging from asymptomatic transaminase elevation to severe liver injury. Risk is increased with pre-existing liver disease.\n*   **Metabolism:** Primarily metabolized by the liver. Impairment can lead to drug accumulation.\n*   **Contraindications:** Generally **contraindicated in patients with severe hepatic impairment** or acute liver disease (e.g., acute viral hepatitis, acute alcoholic hepatitis).\n*   **Use with Caution:** May be used with **extreme caution and close monitoring** in stable, mild-to-moderate chronic liver disease (e.g., compensated cirrhosis) if benefits outweigh risks (e.g., for tuberculosis treatment).\n*   **Monitoring:** Baseline liver function tests (LFTs) are mandatory. Monitor LFTs frequently (e.g., every 2-4 weeks initially). Discontinue if signs of worsening liver injury appear.\n*   **Drug Interactions:** It is a potent enzyme inducer (CYP3A4, others), which can alter metabolism of many other drugs—a critical consideration in"
+  },
+  {
+    "id": "q015",
+    "category": "renal_hepatic",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Is rifampicin safe in liver disease?",
+    "response": "<think>\nOkay, the user is asking if rifampicin is safe in liver disease. Let me start by recalling what I know about rifampicin and liver function.\n\nFirst, rifampicin is a potent inducer of liver enzymes, specifically CYP450. That means it can increase the metabolism of other drugs, but also, it's metabolized by the liver. So if someone has liver disease, their liver might not process the drug as efficiently, leading to higher concentrations or more toxicity.\n\nI remember that rifampicin is known to cause hepatotoxicity. It's one of the drugs that can lead to drug-induced liver injury. The risk factors include pre-existing liver disease, alcohol use, and concurrent use of other hepatotoxic drugs. So if a patient already has liver disease, using rifampicin could exacerbate that.\n\nBut wait, sometimes rifampicin is necessary, like in tuberculosis treatment. So in those cases, the benefits might outweigh the risks. However, the patient would need close monitoring. Maybe they should start with a lower dose or have more frequent liver function tests.\n\nI should also consider the severity of the liver disease. For example, in mild cases, maybe it's manageable with monitoring, but in severe cirrhosis, it might be contraindicated. Also, the duration of therapy matters. Long-term use increases the risk.\n\nWhat about guidelines? The WHO or CDC might have recommendations on using rifampicin in patients with liver disease. I think they caution against its use in severe liver impairment unless there's no alternative. Also, alternative drugs might be considered if possible.\n\nAnother point is drug interactions. Since rifampicin induces enzymes, other drugs metabolized by the liver could be affected, which is another reason to monitor carefully in patients with compromised liver function.\n\nSo putting it all together: Rifampicin is generally contraindicated in severe liver disease due to the risk of hepatotoxicity"
+  },
+  {
+    "id": "q016",
+    "category": "pediatrics",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "What is the amoxicillin dose for a 25 kg child with otitis media?",
+    "response": "For a 25 kg child with otitis media, the recommended dose of amoxicillin is 45 mg/kg/day, divided into 2-3 doses. \n\nSo, the total daily dose would be: 25 kg x 45 mg/kg = 1125 mg/day.\n\nDivided into 3 doses, the dose would be: 1125 mg / 3 = 375 mg per dose, every 8 hours."
+  },
+  {
+    "id": "q016",
+    "category": "pediatrics",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "What is the amoxicillin dose for a 25 kg child with otitis media?",
+    "response": "For a 25 kg child with acute otitis media, the recommended high-dose amoxicillin regimen is:\n\n**Dose:** 80-90 mg/kg/day divided into two doses.\n**Calculation:** 25 kg × 80-90 mg/kg/day = **2000-2250 mg per day**.\n**Per Dose:** Divide the daily total by 2. This equals **1000-1125 mg every 12 hours**.\n\n**Typical Prescription:** Given available suspension strengths (e.g., 400 mg/5mL or 875 mg tablets), a common and practical regimen would be:\n*   **Amoxicillin 875 mg orally every 12 hours** (1750 mg/day = 70 mg/kg/day, which is within the acceptable high-dose range).\n\n**Important Safety Information:**\n*   This dose is for **uncomplicated acute otitis media**. The treatment course is typically **10 days** for children under 2 years or with severe symptoms, and **5-7 days** for children 2 years and older with mild/moderate symptoms.\n*   **Verify no penicillin allergy.** Do not use if the child has a history of a severe allergic reaction (e.g., hives, anaphylaxis) to penicillins"
+  },
+  {
+    "id": "q016",
+    "category": "pediatrics",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "What is the amoxicillin dose for a 25 kg child with otitis media?",
+    "response": "<think>\nOkay, the user is asking about the amoxicillin dose for a 25 kg child with otitis media. Let me start by recalling the standard dosing guidelines. For otitis media, the usual recommended dose is 80-90 mg/kg/day divided into two doses. So first, I need to calculate the total daily dose based on the child's weight.\n\nThe child weighs 25 kg. Let's take the lower end first: 80 mg/kg/day. That would be 80 mg * 25 kg = 2000 mg/day. Divided into two doses, that's 1000 mg twice daily. But wait, amoxicillin comes in different concentrations. Common concentrations are 125 mg/5 mL, 250 mg/5 mL, and 400 mg/5 mL. Let me check the typical formulations.\n\nIf using 250 mg/5 mL, then each 5 mL is 250 mg. To get 1000 mg, that would be 20 mL per dose. Alternatively, if using 400 mg/5 mL, then 1000 mg would be 12.5 mL. But wait, 12.5 mL might be a bit tricky for a child to take, so maybe the 250 mg/5 mL is more practical here. Let me confirm the standard dosing again. The maximum daily dose is usually 4 grams, but for a 25 kg child, 2000 mg is well under that. \n\nAlso, some guidelines might suggest higher doses for resistant strains, like 90 mg/kg/day. Let me check if that's applicable here. The user didn't specify any resistance issues, so sticking with the standard 80-90 mg/kg/day is appropriate. So the range would be 200"
+  },
+  {
+    "id": "q017",
+    "category": "pediatrics",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "What is the ibuprofen dose in children?",
+    "response": "For children, the ibuprofen dose is based on weight. The recommended dose is 10 mg/kg/dose every 6-8 hours, not to exceed 40 mg/kg/day or 2400 mg/day. However, it's essential to consult with a healthcare provider or the child's pediatrician for specific dosing instructions, as they can provide guidance tailored to the child's age, weight, and medical condition."
+  },
+  {
+    "id": "q017",
+    "category": "pediatrics",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "What is the ibuprofen dose in children?",
+    "response": "For children, ibuprofen is dosed by weight, not age. The standard dose is:\n\n**5–10 mg/kg per dose**, given every 6–8 hours as needed.\n\n**Maximum daily dose:** Do not exceed 40 mg/kg per day.\n\n### Key Safety Information:\n*   **Age:** Do not give ibuprofen to infants **under 6 months** without specific medical advice.\n*   **Weight:** Always calculate the dose based on your child's **current weight**.\n*   **Concentration:** Use the **child-specific liquid formulation** (typically 100 mg/5 mL). Never use adult tablets unless directed by a doctor.\n*   **Hydration:** Ensure adequate fluid intake, as ibuprofen can pose a risk to kidney function if a child is dehydrated.\n*   **Other Medications:** Do not give with other NSAIDs (e.g., naproxen). Avoid using to treat fever for more than 3 days or pain for more than 5 days without consulting a healthcare provider.\n\n**Always use the dosing device that comes with the product (oral syringe or dropper) for accuracy, not a household spoon.**\n\nConsult a pediatrician or pharmacist for the appropriate dose for your child, especially if they have underlying kidney issues"
+  },
+  {
+    "id": "q017",
+    "category": "pediatrics",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "What is the ibuprofen dose in children?",
+    "response": "The recommended ibuprofen dose for children is **5–10 mg/kg every 6–8 hours**, not exceeding **40 mg/kg/day**. Dosing should be based on **weight**, not age. For example:\n\n- **Infants <6 months**: Avoid unless directed by a physician.\n- **Suspension (50 mg/1 mL or 10"
+  },
+  {
+    "id": "q018",
+    "category": "pediatrics",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "What is the paracetamol dose in children?",
+    "response": "The paracetamol dose in children is based on their weight. The recommended dose is 15-20 mg/kg per dose, every 4-6 hours as needed, with a maximum daily dose of 75-90 mg/kg per day. Do not exceed the recommended dose. Always consult with a healthcare professional or pharmacist for specific guidance."
+  },
+  {
+    "id": "q018",
+    "category": "pediatrics",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "What is the paracetamol dose in children?",
+    "response": "**Standard dose:** 10–15 mg/kg per dose, every 4–6 hours as needed.  \n**Maximum daily dose:** Do not exceed 75 mg/kg in 24 hours (or 4,000 mg total, whichever is lower).\n\n**Important safety notes:**\n1.  **Always dose by the child's weight, not age.**  \n2.  **Check the concentration** of the liquid formulation (commonly 120 mg/5 mL or 240 mg/5 mL).  \n3.  **Do not combine** with other medicines containing paracetamol (acetaminophen).  \n4.  **Seek immediate medical attention** if a single dose exceeds 200 mg/kg.\n\n**Consult a doctor or pharmacist for individualized dosing, especially for children under 2 years of age or with liver conditions.**"
+  },
+  {
+    "id": "q018",
+    "category": "pediatrics",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "What is the paracetamol dose in children?",
+    "response": "**Paracetamol Dose in Children"
+  },
+  {
+    "id": "q019",
+    "category": "pediatrics",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Is aspirin safe in children?",
+    "response": "Aspirin is not recommended for children under 16 years old due to the risk of Reye's syndrome, a rare but potentially life-threatening condition that affects the brain and liver. Acetaminophen or ibuprofen are generally safer alternatives for pain and fever management in children."
+  },
+  {
+    "id": "q019",
+    "category": "pediatrics",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Is aspirin safe in children?",
+    "response": "No. Aspirin is generally **not safe** for children and adolescents under 16 years old, except under strict medical supervision for specific conditions.\n\n**Key Safety Concern:**\n*   **Reye's Syndrome:** Using aspirin (acetylsalicylic acid) to treat fever or pain from viral illnesses (like chickenpox or flu) in children is linked to **Reye's syndrome**, a rare but very serious condition that causes sudden brain and liver damage. It can be fatal.\n\n**Exceptions:**\n*   A doctor may prescribe aspirin for specific conditions like **Kawasaki disease** or certain rheumatological disorders. In these cases, the benefits are carefully weighed against the risks, and dosing is closely monitored.\n\n**For fever or pain in children, use these instead (following dosing instructions):**\n*   **Acetaminophen (Paracetamol)**\n*   **Ibuprofen** (for children over 6 months)\n\n**Always consult a doctor or pharmacist before giving any medication to a child.**"
+  },
+  {
+    "id": "q019",
+    "category": "pediatrics",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Is aspirin safe in children?",
+    "response": "Aspirin is **not recommended for children** due to the risk of **Reye's syndrome**, a rare but severe condition causing liver and brain swelling"
+  },
+  {
+    "id": "q020",
+    "category": "pediatrics",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Can chloramphenicol be used in neonates?",
+    "response": "Chloramphenicol can be used in neonates, but with caution. Due to the risk of gray baby syndrome, a potentially fatal condition, it's typically reserved for life-threatening infections when no alternative is available. Close monitoring of serum concentrations and potential side effects is essential."
+  },
+  {
+    "id": "q020",
+    "category": "pediatrics",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Can chloramphenicol be used in neonates?",
+    "response": "**Yes, but with extreme caution, strict dosing protocols, and therapeutic drug monitoring. It is not a first-line agent.**\n\n**Key Safety Points:**\n\n1.  **Gray Baby Syndrome:** This is a potentially fatal toxicity unique to neonates, especially premature infants and those under 2 weeks old. It results from immature liver enzymes (UDP-glucuronosyltransferase) and underdeveloped renal function, leading to dangerously high drug levels.\n    *   **Symptoms:** Vomiting, refusal to feed, abdominal distension, hypothermia, gray cyanosis, cardiovascular collapse.\n    *   **Prevention:** Use weight-based dosing (mg/kg), avoid doses >25 mg/kg/day in full-term neonates, and use even lower doses in premature infants. **Serum concentration monitoring is mandatory.**\n\n2.  **Limited Indications:** Its use is restricted to severe, life-threatening infections (e.g., meningitis, Rocky Mountain spotted fever) where the benefits outweigh the risks and no safer alternative exists. It is **never** used for routine infections.\n\n3.  **Monitoring:** Close clinical monitoring and frequent measurement of serum chloramphenicol levels (target trough: 5–15 µg/mL) are essential to avoid toxicity.\n\n**In summary:** Chloramphenicol can be"
+  },
+  {
+    "id": "q020",
+    "category": "pediatrics",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Can chloramphenicol be used in neonates?",
+    "response": "<think>\nOkay, the user is asking if chloramphenicol can be used in neonates. Let me recall what I know about this. Chloramphenicol is an antibiotic, but there are specific concerns with its use in newborns. I remember something about gray baby syndrome. Let me think.\n\nGray baby syndrome is a serious condition that can occur in neonates when they receive chloramphenicol. The symptoms include hypothermia, hypotension, and a grayish skin color. It's related to the immature liver and kidney function in newborns, which affects their ability to metabolize and excrete the drug. The conjugation of chloramphenicol with glucuronic acid is a key process here. In neonates, especially those under two weeks old, the glucuronyl transferase enzymes aren't fully developed, leading to accumulation of the drug. This can be life-threatening.\n\nAre there any exceptions or specific situations where it might still be used? I think in some cases, if there's no alternative and the infection is severe, it might be considered, but with very close monitoring. The dosage would need to be carefully adjusted, and the baby would need to be watched for signs of toxicity. Also, preterm infants might be at higher risk because their enzyme systems are even less mature.\n\nWhat about the route of administration? Oral vs. intravenous? I think the risk is similar regardless of the route because it's about metabolism. But maybe IV would lead to higher concentrations more quickly. Also, some sources mention that the risk decreases after about 2 weeks of age as the enzymes develop. So maybe after that period, it's safer, but still with caution.\n\nI should check if there are any guidelines or specific recommendations. The FDA has warnings about this. They probably advise against using chloramphenicol in neonates unless the benefits clearly outweigh the risks. Alternatives like ampicillin or gentamicin might be preferred for common neonatal infections."
+  },
+  {
+    "id": "q021",
+    "category": "contraindications",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Is propranolol safe in asthma patients?",
+    "response": "Propranolol is generally not recommended in asthma patients, as it is a non-selective beta-blocker that can worsen bronchospasm and trigger asthma attacks. However, in certain situations, such as managing performance anxiety or thyrotoxicosis, the benefits may outweigh the risks. Close monitoring and caution are advised. Alternative beta-blockers with selective beta-1 activity, like atenolol or metoprolol, may be safer options."
+  },
+  {
+    "id": "q021",
+    "category": "contraindications",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Is propranolol safe in asthma patients?",
+    "response": "**No.** Propranolol is **contraindicated** in patients with asthma.\n\n**Reason:** Propranolol is a **non-selective beta-blocker**. It blocks both beta-1 (heart) and beta-2 (lung) receptors. Blocking beta-2 receptors in the lungs can cause **significant bronchoconstriction**, potentially triggering severe asthma attacks, bronchospasm, and respiratory distress.\n\n**Key Safety Points:**\n* **Avoid** in all patients with asthma or a history of bronchospasm.\n* Even low doses or topical formulations (e.g., for tremor) carry risk.\n* The danger applies to other non-selective beta-blockers (e.g., nadolol, timolol eye drops).\n\n**If a Beta-Blocker is Absolutely Necessary:**\n* A **cardioselective beta-1 blocker** (e.g., metoprolol succinate, bisoprolol, atenolol) may be considered with **extreme caution** and under close specialist supervision.\n* It must be initiated at a very low dose in a controlled setting, with the understanding that selectivity is dose-dependent and diminishes at higher doses.\n\n**Bottom Line:** Propranolol is not safe for asthma patients. Use is strongly discouraged due"
+  },
+  {
+    "id": "q021",
+    "category": "contraindications",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Is propranolol safe in asthma patients?",
+    "response": "<think>\nOkay, the user is asking if propranolol is safe for patients with asthma. Let me start by recalling what I know about propranolol and asthma. Propranolol is a beta-blocker, right? Beta-blockers work by blocking beta-adrenergic receptors. There are different types of beta receptors, like beta-1 in the heart and beta-2 in the lungs.\n\nIn asthma, the airways are hyperresponsive, and beta-2 agonists (like albuterol) are used to relax the bronchial smooth muscle. If you block beta-2 receptors with a beta-blocker, that could potentially cause bronchoconstriction, which is bad for someone with asthma. So, propranolol, being a non-selective beta-blocker, would block both beta-1 and beta-2 receptors. That means it could worsen asthma symptoms by constricting the airways.\n\nWait, but there are selective beta-blockers, like metoprolol, which mainly target beta-1. Those might be safer in asthma patients. But propranolol isn't selective. So using it in someone with asthma could lead to bronchospasm, which is a risk. However, maybe in some cases, the benefits outweigh the risks. For example, if a patient has a condition that requires beta-blockers, like severe hypertension or arrhythmias, and they have asthma, but they're already on a beta-agonist. But even then, the risk of bronchoconstriction is there.\n\nI should also check if there are any exceptions or specific guidelines. The American College of Chest Physicians or other guidelines might have something. From what I remember, non-selective beta-blockers are generally contraindicated in asthma. But some sources might say that with caution and close monitoring, they can be used if necessary. But the consensus is that it's not safe unless absolutely necessary and with alternatives considered first"
+  },
+  {
+    "id": "q022",
+    "category": "contraindications",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Can primaquine be given in G6PD deficiency?",
+    "response": "No, primaquine is generally contraindicated in patients with G6PD deficiency due to the risk of hemolytic anemia. Alternative treatments should be considered."
+  },
+  {
+    "id": "q022",
+    "category": "contraindications",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Can primaquine be given in G6PD deficiency?",
+    "response": "**No.** Primaquine is **contraindicated** in patients with G6PD deficiency due to the high risk of severe hemolytic anemia.\n\n**Key Safety Points:**\n1.  **Mandatory Testing:** G6PD testing must be performed before prescribing primaquine. This is an absolute requirement.\n2.  **Mechanism:** Primaquine generates oxidative stress, which G6PD-deficient red blood cells cannot counteract, leading to their rapid destruction.\n3.  **Exception:** In rare, life-threatening situations (e.g., *Plasmodium vivax* malaria relapse where no other options exist), it may be given under **strict specialist supervision** with intense monitoring for hemolysis, often in a hospital setting. This is not standard practice.\n\n**Direct Recommendation:** Do not administer primaquine to a patient with known or suspected G6PD deficiency. Use alternative antimalarials (e.g., chloroquine, atovaquone-proguanil for acute attack) and consult an infectious disease or tropical medicine specialist for management of the hypnozoite (dormant liver) stage in *P. vivax* or *P. ovale* infections."
+  },
+  {
+    "id": "q022",
+    "category": "contraindications",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Can primaquine be given in G6PD deficiency?",
+    "response": "<think>\nOkay, the user is asking if primaquine can be given to someone with G6PD deficiency. Let me recall what I know about this.\n\nFirst, I remember that G6PD deficiency is a genetic disorder affecting red blood cells. Primaquine is an antimalarial drug, right? It's used for both the treatment and prevention of malaria, especially for the radical cure of P. vivax and P. ovale. But there's a risk of hemolysis in G6PD-deficient individuals. \n\nWait, why does that happen? G6PD is an enzyme that helps protect red blood cells from oxidative damage. Primaquine causes oxidative stress, which can lead to hemolysis in people who lack sufficient G6PD. So, giving primaquine to someone with G6PD deficiency could be dangerous.\n\nBut I should check if there are any exceptions or specific guidelines. I think the CDC and WHO have guidelines on this. They probably recommend testing for G6PD deficiency before starting primaquine. Also, maybe there are different dosing considerations or alternative drugs for those who are deficient.\n\nOh, and there's a thing about the 8-aminoquinoline class. Primaquine is in that class, and tafenoquine is another one. Both are contraindicated in G6PD deficiency. So the answer should mention that primaquine is contraindicated in G6PD deficiency due to the risk of hemolysis. Also, the need for testing before administration.\n\nWait, but what about in areas where G6PD deficiency is common? Do they have rapid tests available? I think in some regions, they might not have the resources for testing, so they might use alternative strategies. But the standard recommendation is still to avoid primaquine in known G6PD deficiency.\n\nAlso, the user might be a healthcare provider looking to prescribe or a patient asking about their own condition. The answer needs to be clear and direct, emphasizing the"
+  },
+  {
+    "id": "q023",
+    "category": "contraindications",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Is diphenhydramine safe in elderly patients?",
+    "response": "Diphenhydramine is generally not recommended for elderly patients due to its anticholinergic properties, which can increase the risk of adverse effects such as:\n\n* Confusion\n* Dry mouth\n* Constipation\n* Urinary retention\n* Increased risk of falls\n\nThe American Geriatrics Society lists diphenhydramine as a potentially inappropriate medication for older adults. Alternative options should be considered, and dosage should be carefully evaluated if diphenhydramine is necessary. Monitoring for adverse effects is crucial."
+  },
+  {
+    "id": "q023",
+    "category": "contraindications",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Is diphenhydramine safe in elderly patients?",
+    "response": "**No, diphenhydramine (Benadryl) is generally NOT considered safe for routine use in elderly patients.**\n\nThis is based on strong evidence and is a key recommendation in the **Beers Criteria**, a widely used list of medications to avoid or use with caution in older adults.\n\n### Primary Reasons to Avoid:\n1.  **Strong Anticholinergic Effects:** It blocks acetylcholine, leading to a high risk of:\n    *   **Confusion, sedation, and delirium.**\n    *   **Dry mouth, constipation, urinary retention.**\n    *   **Increased risk of falls** due to dizziness and drowsiness.\n2.  **Cognitive Impairment:** Regular use is associated with worsening cognitive function and may accelerate decline in patients with dementia.\n3.  **Reduced Efficacy & Longer Duration:** With aging, the body metabolizes the drug more slowly, leading to prolonged effects and accumulation.\n\n### Safer Alternatives Exist:\n*   For **allergies:** Second-generation antihistamines like **cetirizine (Zyrtec)** or **loratadine (Claritin)** are preferred (though still use at lowest effective dose).\n*   For **insomnia:** Non-pharmacological strategies are first-line. If medication is necessary, safer options"
+  },
+  {
+    "id": "q023",
+    "category": "contraindications",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Is diphenhydramine safe in elderly patients?",
+    "response": "<think>\nOkay, the user is asking if diphenhydramine is safe for elderly patients. Let me start by recalling what I know about diphenhydramine. It's an antihistamine, commonly used for allergies, sleep, and sometimes as an anticholinergic.\n\nFirst, I need to consider the elderly population. Older adults are more sensitive to anticholinergic medications. Diphenhydramine has strong anticholinergic effects. These effects can lead to issues like confusion, dizziness, dry mouth, constipation, and even urinary retention. In the elderly, these side effects can be more pronounced and potentially dangerous, especially confusion and dizziness, which increase the risk of falls.\n\nI remember reading about the Beers Criteria, which lists medications that are potentially inappropriate for older adults. Diphenhydramine is on that list for use as a sedative or for insomnia. So that's a red flag. The Beers Criteria is a key reference here.\n\nAlso, the elderly often have comorbidities and are on multiple medications, so drug interactions are a concern. They might be on other anticholinergics or medications that affect the central nervous system. Combining these could lead to additive effects, increasing the risk of adverse events.\n\nAnother point is the duration of action. Diphenhydramine has a longer half-life in older adults due to decreased metabolism and renal function. This means the drug stays in their system longer, increasing the likelihood of side effects.\n\nAlternatives should be considered. For sleep, maybe non-benzodiazepine hypnotics or non-pharmacological approaches. For allergies, second-generation antihistamines like cetirizine or loratadine are preferred because they have less anticholinergic activity and are less likely to cause sedation.\n\nI should also mention the importance of using the lowest effective dose for the shortest duration if diphenhydramine is necessary"
+  },
+  {
+    "id": "q024",
+    "category": "contraindications",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Can sildenafil be used with nitrates?",
+    "response": "No, sildenafil should not be used with nitrates. Concomitant use can cause a significant drop in blood pressure, leading to hypotension, dizziness, and potentially life-threatening complications. This is a contraindication due to the risk of severe hypotension."
+  },
+  {
+    "id": "q024",
+    "category": "contraindications",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Can sildenafil be used with nitrates?",
+    "response": "**No. Sildenafil must NEVER be used with nitrates.**\n\nThis combination is **absolutely contraindicated** due to a high risk of severe, life-threatening hypotension (dangerously low blood pressure).\n\n**Why it's dangerous:**\nBoth medications work by increasing nitric oxide's effects, which dilates blood vessels. When taken together, this effect is dangerously amplified, potentially leading to a catastrophic drop in blood pressure, heart attack, stroke, or death.\n\n**Nitrates include:**\n* Nitroglycerin (spray, tablets, patches, ointment)\n* Isosorbide mononitrate or dinitrate\n* Some recreational drugs like amyl nitrite or nitrite \"poppers\"\n\n**If you or someone you know has taken both:**\n1. **Do not stand up suddenly.**\n2. **Seek emergency medical attention immediately.**\n\nAlways inform all your healthcare providers (doctors, dentists, pharmacists) that you are taking sildenafil or any similar erectile dysfunction medication before any new prescription is given."
+  },
+  {
+    "id": "q024",
+    "category": "contraindications",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Can sildenafil be used with nitrates?",
+    "response": "**No, sildenafil should not be used with nitrates.**  \nCombining sildenafil (a PDE5 inhibitor) with nitrates (e.g., nitroglycerin, isosorbide) causes **"
+  },
+  {
+    "id": "q025",
+    "category": "contraindications",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Is long-term metoclopramide use safe?",
+    "response": "No, long-term metoclopramide use is not safe. It can cause tardive dyskinesia, a potentially irreversible movement disorder. The FDA recommends limiting use to 3 months or less, and using the lowest effective dose."
+  },
+  {
+    "id": "q025",
+    "category": "contraindications",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Is long-term metoclopramide use safe?",
+    "response": "**No, long-term metoclopramide use is generally not safe and is strongly discouraged.**\n\nThe primary reason is the significant risk of **tardive dyskinesia (TD)**, a potentially irreversible movement disorder. Key safety points:\n\n1.  **Black Box Warning:** The FDA mandates a \"black box\" warning due to the risk of TD, which can persist even after stopping the drug.\n2.  **Duration Limit:** Therapy should not exceed **12 weeks** total (for most indications) due to cumulative risk.\n3.  **Increased Risk:** Higher doses and use beyond 3 months dramatically increase TD risk. Elderly patients, especially elderly women, are at particularly high risk.\n\n**If you are taking metoclopramide long-term, you should consult your doctor immediately to review the necessity and discuss safer alternatives.**\n\n**Alternatives to discuss with your doctor:**\n*   For diabetic gastroparesis: **Prokinetics** like domperidone (where available) or **antiemetics** like ondansetron.\n*   For GERD: **Proton pump inhibitors** (e.g., omeprazole, pantoprazole).\n*   For nausea/ vomiting: Other classes of antiemetics.\n\n**Bottom line:"
+  },
+  {
+    "id": "q025",
+    "category": "contraindications",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Is long-term metoclopramide use safe?",
+    "response": "<think>\nOkay, the user is asking about the safety of long-term metoclopramide use. Let me start by recalling what I know about this drug. Metoclopramide is a dopamine antagonist used for gastrointestinal issues like gastroparesis and GERD. It works by increasing gastrointestinal motility.\n\nNow, the key point here is long-term use. I remember that one of the major concerns with metoclopramide is the risk of tardive dyskinesia. That's a movement disorder characterized by involuntary movements, often of the face and limbs. I think the FDA has issued a black box warning about this, which is the strongest warning they can give. The risk increases with longer duration and higher doses. So, the longer someone is on it, the higher the risk.\n\nAnother side effect is extrapyramidal symptoms (EPS), which can include things like dystonia, akathisia, and parkinsonism. These are more common in younger patients and at higher doses, but they can occur in anyone. The user might be concerned about these effects if they're considering long-term use.\n\nThere's also the issue of neuroleptic malignant syndrome (NMS), though that's rare. It's a life-threatening condition with symptoms like high fever, muscle rigidity, and altered mental status. I need to mention that as a potential risk, even though it's less common.\n\nMetoclopramide can also cause other side effects like sedation, drowsiness, and gastrointestinal issues. It's important to note that it's generally recommended for short-term use, maybe up to 12 weeks. But some patients might need it longer, so what's the guidance there?\n\nI should check if there are specific guidelines. The American College of Gastroenterology (ACG) guidelines mention that metoclopramide is a second-line agent for gastroparesis and should be used cautiously for long-term due to the risk of tardive dys"
+  },
+  {
+    "id": "q026",
+    "category": "geriatrics",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Are benzodiazepines safe in elderly patients?",
+    "response": "Benzodiazepines are generally not recommended for long-term use in elderly patients due to increased risk of adverse effects, such as:\n\n* Falls and fractures\n* Cognitive impairment\n* Confusion and delirium\n* Sedation and respiratory depression\n* Increased risk of motor vehicle accidents\n\nThe American Geriatrics Society recommends avoiding benzodiazepines in elderly patients whenever possible, and using alternative treatments for anxiety and insomnia, such as non-pharmacological interventions or non-benzodiazepine medications. If benzodiazepines are necessary, use the lowest effective dose for the shortest duration possible, and monitor closely for adverse effects."
+  },
+  {
+    "id": "q026",
+    "category": "geriatrics",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Are benzodiazepines safe in elderly patients?",
+    "response": "**No, benzodiazepines are generally not safe for routine use in elderly patients.**\n\nThey are considered potentially inappropriate medications for most older adults due to significantly increased risks. Here are the key concerns:\n\n### Major Risks:\n1.  **Falls & Fractures:** High risk due to sedation, dizziness, and impaired coordination. This is the most well-documented danger.\n2.  **Cognitive Impairment:** Can cause confusion, memory problems, and worsen existing dementia. Long-term use may be linked to an increased risk of developing dementia.\n3.  **Paradoxical Reactions:** Can cause agitation, aggression, or hostility instead of sedation.\n4.  **Respiratory Depression:** Especially dangerous in patients with sleep apnea or COPD.\n5.  **Increased Sensitivity:** Age-related changes (slower metabolism, increased brain sensitivity) lead to stronger and longer-lasting effects.\n\n### Clinical Guidelines:\n*   The **American Geriatrics Society Beers Criteria®** strongly recommends avoiding benzodiazepines in adults 65+ for any indication (insomnia, anxiety, agitation) due to these risks.\n*   They are **never** first-line therapy for insomnia, anxiety, or agitation in this population.\n\n### If Absolutely Necessary (Rare Cases):\nIf a trial is unavoidable after exhausting"
+  },
+  {
+    "id": "q026",
+    "category": "geriatrics",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Are benzodiazepines safe in elderly patients?",
+    "response": "<think>\nOkay, the user is asking if benzodiazepines are safe for elderly patients. Let me start by recalling what I know about this. Benzodiazepines are commonly prescribed for anxiety, insomnia, and other conditions. But in the elderly, there are specific concerns.\n\nFirst, age-related changes in metabolism and excretion. The liver and kidneys function differently in older adults, which might lead to prolonged drug effects. This could increase the risk of side effects like sedation, confusion, or falls. I remember reading that the half-life of benzodiazepines is longer in the elderly, so even short-acting ones might act like long-acting in older patients.\n\nThen there's the risk of cognitive impairment. Elderly patients are more susceptible to confusion and memory issues. Benzodiazepines can exacerbate these problems, especially in those with dementia or other cognitive disorders. Also, the risk of falls is higher because of sedation and ataxia. Falls in the elderly can lead to serious injuries, so that's a big concern.\n\nDependency and withdrawal are another issue. Elderly patients might be more prone to developing dependence, especially with long-term use. Withdrawal symptoms can be severe and might include seizures, which are particularly dangerous in older adults.\n\nThe Beers Criteria lists certain medications that are potentially inappropriate for the elderly, and benzodiazepines are on that list. So, they should be avoided unless absolutely necessary and the benefits outweigh the risks. Alternatives like non-benzodiazepine hypnotics (z-drugs) or non-pharmacological approaches might be better options.\n\nWhen considering use, if a benzodiazepine is necessary, it should be at the lowest effective dose for the shortest duration. Monitoring for side effects is crucial. Also, checking for drug interactions is important because elderly patients often take multiple medications.\n\nI should also mention specific examples. For instance, lorazepam has a shorter half-life and might be preferred"
+  },
+  {
+    "id": "q027",
+    "category": "geriatrics",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "What are the symptoms of insulin overdose?",
+    "response": "Symptoms of insulin overdose include:\n\n1. Confusion\n2. Dizziness\n3. Shaking or tremors\n4. Sweating\n5. Hunger\n6. Headache\n7. Fatigue\n8. Slurred speech\n9. Numbness or tingling in the lips, tongue, or face\n10. Seizures (in severe cases)\n\nIf you suspect an insulin overdose, call emergency services or seek immediate medical attention."
+  },
+  {
+    "id": "q027",
+    "category": "geriatrics",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "What are the symptoms of insulin overdose?",
+    "response": "**Insulin overdose is a medical emergency. If you suspect an overdose, call emergency services immediately.**\n\nSymptoms are primarily those of severe hypoglycemia (low blood sugar) and progress from mild to life-threatening:\n\n**Early/Mild Symptoms (Autonomic):**\n*   Sweating\n*   Shakiness/tremors\n*   Rapid heartbeat\n*   Hunger\n*   Anxiety\n\n**Moderate Symptoms (Neuroglycopenic - Brain lacks sugar):**\n*   Confusion, difficulty concentrating\n*   Slurred speech\n*   Drowsiness\n*   Blurred vision\n*   Weakness, clumsiness\n\n**Severe Symptoms:**\n*   Seizures\n*   Loss of consciousness (coma)\n*   **Death** (if untreated)\n\n**Action Required:** If conscious, give fast-acting sugar (glucose tablets, juice, regular soda). If unconscious, **do not give anything by mouth**; place them on their side and call for emergency help. Administer glucagon if available and prescribed."
+  },
+  {
+    "id": "q027",
+    "category": "geriatrics",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "What are the symptoms of insulin overdose?",
+    "response": "Insulin overdose (hypoglycemia) symptoms"
+  },
+  {
+    "id": "q028",
+    "category": "geriatrics",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "How should opioids be used in elderly patients?",
+    "response": "When using opioids in elderly patients, consider the following:\n\n1. **Start with low doses**: Elderly patients are more sensitive to opioids due to decreased renal function, altered drug metabolism, and increased sensitivity to CNS effects.\n2. **Use short-acting opioids**: Initially, use short-acting opioids (e.g., oxycodone, hydrocodone) to assess tolerance and minimize risk of accumulation.\n3. **Monitor closely**: Regularly monitor for signs of opioid toxicity, such as respiratory depression, confusion, and falls.\n4. **Avoid long-acting opioids**: Long-acting opioids (e.g., methadone, fentanyl patches) may accumulate and increase the risk of adverse effects.\n5. **Consider alternative pain management**: Non-opioid analgesics (e.g., acetaminophen, NSAIDs) and non-pharmacologic interventions (e.g., physical therapy, cognitive-behavioral therapy) should be considered first.\n6. **Be aware of drug interactions**: Elderly patients often take multiple medications, increasing the risk of drug interactions with opioids.\n7. **Screen for opioid use disorder**: Assess elderly patients for risk of opioid use disorder and monitor for signs of misuse or addiction.\n\nRemember to always follow guidelines and consult with a healthcare provider before initiating or adjusting opioid therapy in elderly patients."
+  },
+  {
+    "id": "q028",
+    "category": "geriatrics",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "How should opioids be used in elderly patients?",
+    "response": "**Key Principles for Opioid Use in Elderly Patients:**\n\n1.  **\"Start Low, Go Slow\":** Initiate at the **lowest effective dose** (often 25-50% of the adult starting dose). Increase very gradually, allowing longer intervals (e.g., 5-7 days) to assess response and side effects.\n2.  **Prefer Shorter-Acting Agents First:** Use immediate-release formulations for initial titration and for intermittent pain. Avoid extended-release/long-acting opioids for acute pain initiation.\n3.  **Avoid High-Risk Agents:** Steer clear of:\n    *   **Meperidine** (toxic metabolite accumulates).\n    *   **Codeine & Tramadol** (variable metabolism; poor efficacy; increased CNS side effects).\n    *   **Methadone** (complex pharmacokinetics; high risk of QTc prolongation and accumulation).\n    *   **Mixed agonist-antagonists** (e.g., pentazocine) due to CNS excitation.\n4.  **Prioritize Non-Opioid & Non-Pharmacologic Therapies:** Always optimize acetaminophen, NSAIDs (with caution for renal/GI risks), and therapies like physical therapy, cognitive-behavioral therapy,"
+  },
+  {
+    "id": "q028",
+    "category": "geriatrics",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "How should opioids be used in elderly patients?",
+    "response": "<think>\nOkay, the user is asking about the use of opioids in elderly patients. Let me start by recalling the key points. Elderly patients are more sensitive to opioids due to age-related changes in metabolism and excretion. They also have a higher risk of side effects like sedation, respiratory depression, and falls.\n\nFirst, I need to mention starting with the lowest effective dose. Maybe 25% lower than the usual adult dose? I think that's a common recommendation. Also, the choice of opioid matters. Short-acting ones like morphine or oxycodone might be better for titration, but long-acting could be used if needed, with caution.\n\nMonitoring is crucial. They should check for sedation, confusion, and constipation regularly. Maybe every 24-48 hours initially. Renal and hepatic function are important because many elderly patients have comorbidities affecting these organs. Dose adjustments might be necessary based on lab results.\n\nNon-opioid alternatives should be considered first, like acetaminophen or NSAIDs, but with caution for NSAID risks in the elderly. Also, combining with other CNS depressants like benzodiazepines is risky and should be avoided if possible.\n\nFalls are a big concern because of sedation and confusion. Maybe suggest fall prevention strategies. The duration of use is another point—short-term for acute pain, but if long-term, reassess regularly for benefit vs. risk.\n\nDrug interactions are important too. Elderly patients often take multiple medications, so checking for interactions with CYP450 enzymes or other drugs that affect the central nervous system is necessary.\n\nDocumentation and patient education are key. They need to know about the risks and signs of overdose. Maybe mention naloxone availability for caregivers.\n\nI should also consider guidelines from reputable sources like the CDC or AGS. The CDC has specific recommendations on opioid use for chronic pain, which might be applicable here. The AGS Be"
+  },
+  {
+    "id": "q029",
+    "category": "geriatrics",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Are anticholinergic drugs safe in dementia?",
+    "response": "Anticholinergic drugs are generally not recommended in patients with dementia due to the risk of worsening cognitive function and increasing the risk of adverse effects such as confusion, dry mouth, constipation, and urinary retention. The American Geriatrics Society and other organizations advise caution when using anticholinergic medications in older adults, especially those with dementia. Alternative treatments should be considered whenever possible."
+  },
+  {
+    "id": "q029",
+    "category": "geriatrics",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Are anticholinergic drugs safe in dementia?",
+    "response": "**No, anticholinergic drugs are generally not safe in dementia and should be avoided.**\n\nHere’s a concise summary of the key safety concerns:\n\n1.  **Worsens Cognitive Function:** These drugs block acetylcholine, a neurotransmitter already deficient in Alzheimer's disease. They can directly worsen memory, attention, and processing speed.\n2.  **Accelerates Cognitive Decline:** Long-term use is associated with a significantly increased risk of accelerated cognitive decline and progression of dementia.\n3.  **Increases Mortality:** Studies show an increased risk of mortality in older adults with dementia who use anticholinergic medications.\n4.  **Common Culprits:** This includes many over-the-counter and prescription drugs (e.g., some antihistamines like diphenhydramine, medications for overactive bladder like oxybutynin, certain antidepressants like amitriptyline, and medications for vertigo/nausea like meclizine).\n\n**Clinical Recommendation:**\n*   **Review and Deprescribe:** A thorough medication review to identify and discontinue anticholinergic drugs is a standard of care in dementia management.\n*   **Seek Alternatives:** Always consider safer therapeutic alternatives.\n*   **Do Not Stop Abruptly:** Any discontinuation should be done carefully under a doctor's"
+  },
+  {
+    "id": "q029",
+    "category": "geriatrics",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Are anticholinergic drugs safe in dementia?",
+    "response": "<think>\nOkay, the user is asking if anticholinergic drugs are safe in dementia. Let me start by recalling what I know about anticholinergics and their use in dementia patients.\n\nFirst, anticholinergic drugs block acetylcholine, which is a neurotransmitter. In dementia, especially Alzheimer's, there's a known deficiency of acetylcholine. So using drugs that block it might seem counterintuitive. I remember reading that anticholinergics can worsen cognitive function in these patients because they further reduce cholinergic activity. That makes sense because the brain is already lacking in that area.\n\nNow, safety concerns. The main issue is cognitive decline. Studies have shown that anticholinergics can increase the risk of delirium, confusion, and even accelerate cognitive decline in dementia patients. Also, there's the risk of anticholinergic side effects like dry mouth, constipation, urinary retention, and increased risk of falls due to dizziness or sedation. These are particularly dangerous in elderly patients who are more prone to falls and have other comorbidities.\n\nI should mention specific drugs. Common anticholinergics include medications like antihistamines (e.g., diphenhydramine), tricyclic antidepressants (TCAs), some antipsychotics (like risperidone, but wait, not all antipsychotics are anticholinergic—maybe quetiapine?), and drugs for overactive bladder (like oxybutynin). It's important to note that even some over-the-counter medications can have anticholinergic effects, so patients might be taking them without realizing.\n\nAlternatives are key here. For example, if a patient needs an antipsychotic for behavioral symptoms, atypical antipsychotics like risperidone or olanzapine might be used, but they have their own risks, including increased mortality in elderly dementia patients. So the"
+  },
+  {
+    "id": "q030",
+    "category": "geriatrics",
+    "model": "llama-3.3-70b",
+    "model_display": "Llama 3.3 70B",
+    "query": "Are NSAIDs safe in CKD patients?",
+    "response": "NSAIDs are generally not recommended in patients with chronic kidney disease (CKD) due to the risk of worsening kidney function and exacerbating existing kidney damage. They can decrease renal blood flow, increase blood pressure, and worsen fluid retention, potentially leading to acute kidney injury or progression of CKD. Alternative pain management options should be considered."
+  },
+  {
+    "id": "q030",
+    "category": "geriatrics",
+    "model": "deepseek-r1",
+    "model_display": "DeepSeek R1",
+    "query": "Are NSAIDs safe in CKD patients?",
+    "response": "**NSAIDs in CKD Patients:**  \n**Avoid use** in most CKD patients (especially stages 3-5). NSAIDs reduce renal blood flow via prostaglandin inhibition, increasing risks of:  \n- Acute kidney injury (AKI)  \n- CKD progression  \n- Hyperkalemia  \n- Fluid retention/hypertension  \n\n**Safer Alternatives:**  \n- **Pain:** Acetaminophen (max 3g/day, avoid in liver disease).  \n- **In"
+  },
+  {
+    "id": "q030",
+    "category": "geriatrics",
+    "model": "qwen3-32b",
+    "model_display": "Qwen 3 32B",
+    "query": "Are NSAIDs safe in CKD patients?",
+    "response": "<think>\nOkay, the user is asking if NSAIDs are safe for patients with chronic kidney disease (CKD). Let me start by recalling what I know about NSAIDs and kidney function.\n\nFirst, NSAIDs work by inhibiting COX enzymes, which reduce inflammation and pain. But they also affect prostaglandins that help maintain kidney blood flow. In healthy people, this might not be a big issue, but in CKD patients, the kidneys are already compromised. So, using NSAIDs could further reduce blood flow to the kidneys, leading to acute kidney injury or worsening CKD.\n\nI remember that NSAIDs can cause sodium retention and reduce the effectiveness of diuretics, which are often used in CKD. Also, they might interact with other medications like ACE inhibitors or ARBs, which are common in CKD management. That could lead to hyperkalemia or decreased GFR.\n\nThe guidelines I've read suggest avoiding NSAIDs in CKD patients, especially those with stage 3 or higher. Acetaminophen is usually recommended as an alternative for pain management. However, there might be exceptions if the benefits outweigh the risks, but that's a case-by-case decision by a healthcare provider.\n\nI should also mention the importance of monitoring renal function if NSAIDs are used, even though it's generally not advised. Maybe note that short-term use might be considered under strict supervision, but long-term use is risky.\n\nWait, are there any specific NSAIDs that are safer? I think all NSAIDs have similar risks in this context. Maybe low-dose aspirin for cardiovascular protection is sometimes used, but that's different from using it for pain. Need to clarify that aspirin at low doses might be considered in certain situations, but higher doses for pain are not.\n\nAlso, the user might be a healthcare professional or a patient. Since they asked as a clinical pharmacist, the answer should be precise and include safety info. Need to highlight contraindications, alternatives"
+  }
+]

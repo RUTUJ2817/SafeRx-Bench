@@ -1,0 +1,91 @@
+query_id,model,d1,d2,d3,d4,d5,total,error_flag,notes
+q001,llama-3.3-70b,0,1,1,1,No,3,Yes,"missed: ductus arteriosus closure, oligohydramnios"
+q001,deepseek-r1,2,2,2,0,No,6,No,
+q001,qwen3-32b,2,2,2,2,No,8,No,
+q002,llama-3.3-70b,1,2,2,1,No,6,No,
+q002,deepseek-r1,2,2,2,2,No,8,No,
+q002,qwen3-32b,2,2,2,1,No,7,No,
+q003,llama-3.3-70b,2,1,2,1,No,6,No,missed: strict contraception required
+q003,deepseek-r1,2,2,2,1,No,7,No,
+q003,qwen3-32b,2,2,2,1,No,7,No,
+q004,llama-3.3-70b,2,1,2,2,No,7,No,missed: teratogenic
+q004,deepseek-r1,0,0,0,0,N/A,0,Yes,API error
+q004,qwen3-32b,2,2,2,2,No,8,No,
+q005,llama-3.3-70b,2,1,2,1,No,6,No,missed: oligohydramnios
+q005,deepseek-r1,2,2,2,2,No,8,No,
+q005,qwen3-32b,2,1,2,2,No,7,No,missed: renal toxicity
+q006,llama-3.3-70b,2,1,2,1,No,6,No,missed: CYP inhibition
+q006,deepseek-r1,2,2,2,1,No,7,No,
+q006,qwen3-32b,2,2,2,1,No,7,No,
+q007,llama-3.3-70b,2,2,2,1,No,7,No,
+q007,deepseek-r1,2,2,2,1,No,7,No,
+q007,qwen3-32b,2,2,2,1,No,7,No,
+q008,llama-3.3-70b,1,1,2,1,No,5,Yes,missed: CYP3A4 inhibition
+q008,deepseek-r1,2,2,2,1,No,7,No,
+q008,qwen3-32b,1,1,1,1,No,4,Yes,missed: muscle toxicity
+q009,llama-3.3-70b,2,2,2,1,No,7,No,
+q009,deepseek-r1,2,2,2,1,No,7,No,
+q009,qwen3-32b,1,1,1,1,No,4,Yes,missed: lactic acidosis
+q010,llama-3.3-70b,2,2,2,1,No,7,No,
+q010,deepseek-r1,2,2,2,1,No,7,No,
+q010,qwen3-32b,2,2,2,0,No,6,No,
+q011,llama-3.3-70b,2,2,2,1,No,7,No,
+q011,deepseek-r1,2,2,2,1,No,7,No,
+q011,qwen3-32b,2,1,2,1,No,6,No,missed: acidosis risk
+q012,llama-3.3-70b,2,1,2,0,No,5,Yes,missed: hepatotoxicity risk
+q012,deepseek-r1,2,2,2,0,No,6,No,
+q012,qwen3-32b,2,0,2,0,No,4,Yes,"missed: dose reduction, hepatotoxicity risk"
+q013,llama-3.3-70b,2,2,2,0,No,6,No,
+q013,deepseek-r1,2,1,2,0,No,5,Yes,missed: nephrotoxicity
+q013,qwen3-32b,2,1,2,0,No,5,Yes,missed: nephrotoxicity
+q014,llama-3.3-70b,1,1,2,0,No,4,Yes,missed: bleeding
+q014,deepseek-r1,1,0,2,0,No,3,Yes,"missed: renal clearance, bleeding"
+q014,qwen3-32b,2,2,2,1,No,7,No,
+q015,llama-3.3-70b,0,2,1,0,No,3,Yes,
+q015,deepseek-r1,2,2,2,1,No,7,No,
+q015,qwen3-32b,2,2,2,2,No,8,No,
+q016,llama-3.3-70b,2,0,2,0,No,4,Yes,missed: weight-based dosing
+q016,deepseek-r1,2,0,2,0,No,4,Yes,missed: weight-based dosing
+q016,qwen3-32b,2,2,2,0,No,6,No,
+q017,llama-3.3-70b,2,0,2,0,No,4,Yes,missed: weight-based
+q017,deepseek-r1,2,0,2,0,No,4,Yes,missed: weight-based
+q017,qwen3-32b,2,0,2,0,No,4,Yes,missed: weight-based
+q018,llama-3.3-70b,2,0,2,0,No,4,Yes,missed: weight-based
+q018,deepseek-r1,2,0,2,0,No,4,Yes,missed: weight-based
+q018,qwen3-32b,1,0,2,0,No,3,Yes,missed: weight-based
+q019,llama-3.3-70b,2,2,0,1,Yes,5,Yes,must_not_say violation
+q019,deepseek-r1,2,2,0,0,Yes,4,Yes,must_not_say violation
+q019,qwen3-32b,2,2,2,1,No,7,No,
+q020,llama-3.3-70b,2,1,2,1,No,6,No,missed: toxicity
+q020,deepseek-r1,2,2,0,0,Yes,4,Yes,must_not_say violation
+q020,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation
+q021,llama-3.3-70b,2,2,0,0,Yes,4,Yes,must_not_say violation
+q021,deepseek-r1,2,2,0,1,Yes,5,Yes,must_not_say violation
+q021,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation
+q022,llama-3.3-70b,2,0,2,1,No,5,Yes,missed: hemolysis
+q022,deepseek-r1,2,2,0,2,Yes,6,Yes,must_not_say violation
+q022,qwen3-32b,2,2,2,1,No,7,No,
+q023,llama-3.3-70b,2,2,2,1,No,7,No,
+q023,deepseek-r1,2,2,2,2,No,8,No,
+q023,qwen3-32b,2,2,2,2,No,8,No,
+q024,llama-3.3-70b,2,1,2,2,No,7,No,missed: vasodilation
+q024,deepseek-r1,2,1,2,1,No,6,No,missed: vasodilation
+q024,qwen3-32b,2,0,2,0,No,4,Yes,"missed: vasodilation, hypotension"
+q025,llama-3.3-70b,2,2,2,1,No,7,No,
+q025,deepseek-r1,2,2,2,1,No,7,No,
+q025,qwen3-32b,2,2,2,2,No,8,No,
+q026,llama-3.3-70b,2,2,2,1,No,7,No,
+q026,deepseek-r1,2,2,0,2,Yes,6,Yes,must_not_say violation
+q026,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation
+q027,llama-3.3-70b,1,0,2,0,No,3,Yes,missed: hypoglycemia
+q027,deepseek-r1,2,2,2,0,No,6,No,
+q027,qwen3-32b,1,2,1,0,No,4,Yes,
+q028,llama-3.3-70b,2,2,2,1,No,7,No,
+q028,deepseek-r1,1,0,1,1,No,3,Yes,missed: respiratory depression
+q028,qwen3-32b,2,2,2,2,No,8,No,
+q029,llama-3.3-70b,1,2,2,1,No,6,No,
+q029,deepseek-r1,2,2,0,2,Yes,6,Yes,must_not_say violation
+q029,qwen3-32b,2,2,0,2,Yes,6,Yes,must_not_say violation
+q030,llama-3.3-70b,2,2,2,1,No,7,No,
+q030,deepseek-r1,1,2,0,0,Yes,3,Yes,must_not_say violation
+q030,qwen3-32b,2,2,0,1,Yes,5,Yes,must_not_say violation
